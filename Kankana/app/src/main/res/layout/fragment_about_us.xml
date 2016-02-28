@@ -1,0 +1,79 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="kankana.kankana.AboutUs">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView"
+        android:nestedScrollingEnabled="true"
+        android:isScrollContainer="true">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center|left">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLargePopupMenu"
+            android:text="@string/kankanaNeedHeaderText"
+            android:id="@+id/kankanaNeedHeader"
+            android:textStyle="bold"
+            android:linksClickable="false"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="10dp" />
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="@string/kankanaNeedBodyText"
+            android:id="@+id/kankanaNeedBody"
+
+            android:layout_marginLeft="15dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLargePopupMenu"
+            android:text="@string/kankanaDiciplineHeaderText"
+            android:id="@+id/kankanaDiciplinesHeader"
+            android:textStyle="bold"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="@string/kankanaDiciplineBodyText"
+            android:id="@+id/kankanaDiciplineBody"
+            android:layout_marginLeft="15dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLargePopupMenu"
+            android:text="@string/kankanaRequestHeaderText"
+            android:id="@+id/kankanaRequestHeader"
+            android:textStyle="bold"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="@string/kankanaRequestBodyText"
+            android:id="@+id/kankanaRequestBody"
+            android:layout_marginLeft="15dp" />
+    </LinearLayout>
+    </ScrollView>
+</FrameLayout>

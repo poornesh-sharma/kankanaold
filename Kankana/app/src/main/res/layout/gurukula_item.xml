@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:divider="@android:color/background_dark"
+    android:dividerPadding="3dp"
+    android:gravity="center_vertical|left"
+    android:measureWithLargestChild="false"
+    android:showDividers="beginning|middle|end">
+
+    <TableRow android:layout_margin="3dp"
+        android:divider="@android:color/background_dark"
+        android:dividerPadding="2dp"
+        android:measureWithLargestChild="false"
+        android:orientation="horizontal"
+        android:showDividers="beginning|middle|end">
+        <TextView
+            android:id="@+id/textViewEnglish"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="sdfsdfdsfdsf"
+            android:layout_weight="1"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:paddingRight="1dp"
+            android:paddingLeft="1dp"
+            android:layout_gravity="center_vertical|left"
+            android:layout_column="0" />
+
+        <TextView
+            android:id="@+id/textViewEnglishKannada"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="sdfsdfsdfdsfds"
+            android:layout_weight="1"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:paddingRight="1dp"
+            android:paddingLeft="1dp"
+            android:layout_gravity="center_vertical|left"
+            android:layout_column="1"
+            android:gravity="center_vertical" />
+    </TableRow>
+</TableLayout>

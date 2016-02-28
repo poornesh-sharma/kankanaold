@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Kankana</string>
+    <string name="openDrawer">Open</string>
+    <string name="closeDrawer">Close</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="kankana_slogans">
+        <item>ಕನ್ನಡ ಭಾಷೆ ನಮ್ಮಮ್ಮ ಇಂಗ್ಲಿಷ್ ಹಿಂದಿ ಯಾಕೋ ತಮ್ಮ</item>
+        <item>ITಯಲ್ಲಿದ್ದರೂ BTಯಲ್ಲಿದ್ದರೂ ಕನ್ನಡ ಮಾತಾಡು ಗುರು</item>
+        <item>ಕಣ್ತೆರೆದು ನೋಡಿ ಕನ್ನಡಿಗರೇ ನಮ್ಮ ಭಾಷೆ ಆಗುತ್ತಿದೆ ಮರೆ</item>
+        <item>ಇಂಗ್ಲಿಷ್, ಹಿಂದಿ ಬಿಡಿ ಕನ್ನಡ ಮಾತಾಡಿ</item>
+        <item>ಇದು ನಮ್ಮ ಬೆಂಗಳೂರು , ಇಲ್ಲಿ ನಡೆಸಿ ಕನ್ನಡದಲ್ಲೇ ಕಾರುಬಾರು</item>
+        <item>ಹೇಳೋಣ ಪರಭಾಷೆಗೆ ವಿದಾಯ ಕರುನಾಡಲ್ಲಿ ಕನ್ನಡವೇ ಕಡ್ಡಾಯ</item>
+        <item>ಕನ್ನಡವೇ ಮೊದಲು ಕನ್ನಡವೇ ಎಲ್ಲೆಲ್ಲೂ</item>
+        <item>ಬಿಡು ಪರಭಾಷಾ ವ್ಯಾಮೋಹದ ನಾಟಕ ಕನ್ನಡವ ಮಾತಾಡು ಇದು ಕರ್ನಾಟಕ</item>
+        <item>ಹೊರರಾಜ್ಯದ ಗೆಳೆಯರಿಗೂ ಕನ್ನಡ ಕಲಿಸಿ</item>
+        <item>ಎಷ್ಟಿದ್ದರೇನು ಲಕ್ಷ ಲಕ್ಷ ತಾಯ್ನುಡಿಯ ಮಾಡಬೇಡಿ ಅಲಕ್ಷ್ಯ</item>
+    </string-array>
+
+    <string name="categories_prompt">Choose a category</string>
+    <string-array name="gurukulaCategories">
+        <item>Bus</item>
+        <item>Office</item>
+        <item>Auto Rickshaw</item>
+        <item>Shopping</item>
+        <item>Travel</item>
+        <item>Friends</item>
+        <item>Neighbours</item>
+        <item>Colors</item>
+        <item>Calendar</item>
+        <item>Numbers</item>
+        <item>Greetings</item>
+        <item>Relastionships</item>
+        <item>House Maid</item>
+        <item>Common Words</item>
+        <item>Emergency</item>
+        <item>Language</item>
+    </string-array>
+
+    <string name="searchHint">Select a Categoty</string>
+
+    <!-- strings used in aboutUspage -->
+    <string name="kankanaNeedHeaderText">ಕಂಕಣದ ಅಗತ್ಯ</string>
+    <string name="kankanaNeedBodyText">ಇಂದು ಕರ್ನಾಟಕದ ರಾಜಧಾನಿ ಬೆಂಗಳೂರಿನಲ್ಲೇ ಕನ್ನಡ ಬಳಕೆ ಕಡಿಮೆಯಾಗಿರುವುದು ಕಳವಳಕಾರಿ ಸಂಗತಿ. ಈ ಬೆಳವಣಿಗೆಗೆ ಮೂಲ ಹೊಣೆ ಬೇರಾರು ಅಲ್ಲ, ಸ್ವತಃ ಕನ್ನಡಿಗರೇ ಆಗಿರುವುದು ವಿಪರ್ಯಾಸ. ಕನ್ನಡಿಗರು ಸಹಜವಾಗಿ ಹೆಮ್ಮೆಯಿಂದ ಕನ್ನಡ ಮಾತಾಡಲು ಹಿಂಜರಿಯುವುದು, ಸುಲಭವಾಗಿ  ಇಂಗ್ಲಿಷ್ ಮತ್ತು ಹಿಂದಿಯಂತಹ ಭಾಷೆಗಳಿಗೆ ಹೊರಳಿಬಿಡುವುದು ಸಮಸ್ಯೆಯ ಮೂಲ. ಈ ಸಮಸ್ಯೆಯ ಪರಿಹಾರವು ನಮ್ಮ ಕೈಯ್ಯಲ್ಲೇ ಇದೆ. ನಮ್ಮ ಕನ್ನಡಿಗರು ಎಲ್ಲೇ ಹೋದರು ಸ್ವಾಭಿಮಾನದಿಂದ ಕನ್ನಡ ಮಾತನಾಡುವಂತಾದರೆ ಒಂದು ಗುಣಾತ್ಮಕ ಬದಲಾವಣೆ ತರಲು ಸಾಧ್ಯ. ಈ ನಂಬಿಕೆಯೊಂದಿಗೆ ಸಮಾನ ಮನಸ್ಕರೆಲ್ಲ ಸೇರಿ ಕಂಕಣ ಕಟ್ಟಿದ್ದೇವೆ. ಆ ದಿಸೆಯಲ್ಲಿ ಮೊದಲು ಹಮ್ಮಿಕೊಂಡಿರುವುದೇ ಈ ಕನ್ನಡ ಮಾತಾಡಿ ಎಂಬ ವಿಶಿಷ್ಟ ಅಭಿಯಾನ.</string>
+    <string name="kankanaDiciplineHeaderText">ಕಂಕಣದ ರೀತಿ-ನೀತಿ</string>
+    <string name="kankanaDiciplineBodyText">ಕಂಕಣದ ಅಭಿಯಾನಗಳು ಪ್ರತಿಭಟನೆಯ ಸ್ವರೂಪದಲ್ಲಿರುವುದಿಲ್ಲ ಬದಲಾಗಿ ಮನವಿ, ಆಗ್ರಹದ ಸ್ವರೂಪದಲ್ಲಿರುತ್ತದೆ.\'ಕಂಕಣ\'ದ ಹೆಸರು, ಸದಸ್ಯತ್ವ, ಸಂಕೇತ, ಉಡುಪು ಹಾಗೂ ಇನ್ನಿತರ ಪರಿಕರಗಳನ್ನು ವೃಯಕ್ತಿತ ಕಾರಣಕ್ಕೆ ಬಳಸಿಕೊಳ್ಳುವಂತಿಲ್ಲ. ಕಂಕಣದ ಸದಸ್ಯರಾಗುವವರು ಸಮಾಜ ವಿರೋಧಿ ಚಟುವಟಿಕೆಗಳಲ್ಲಿ ಪಾಲ್ಗೊಂಡಿರಬಾರದು. ಎಲ್ಲಾ ಸದಸ್ಯರು ತಮ್ಮ ಗುಂಪಿನ ಸಂಚಾಲಕರ ಸೂಚನೆಗಳನ್ನು ಕಡ್ಡಾಯವಾಗಿ ಪಾಲಿಸಬೇಕು.</string>
+    <string name="kankanaRequestHeaderText">ಕಂಕಣದ ಮನವಿ</string>
+    <string name="kankanaRequestBodyText">ಯಾವುದೇ ವ್ಯಾಪಾರ ಮಳಿಗೆ, ಸೂಪರ್ ಮಾರ್ಕೆಟ್, ಮಾಲ್, ಬ್ಯಾಂಕ್, ಸ್ಟಾರ್ ಹೊಟೆಲ್, ಎಲ್ಲೇ ಹೋದರೂ ಹಿಂಜರಿಯದೆ ಸಹಜ ಕನ್ನಡದಲ್ಲಿ ಮಾತಾಡಿ. ಅಲ್ಲಿನ ಕೆಲಸಗಾರರು \'ಕನ್ನಡ ಬರಲ್ಲಾ\' ಎಂದರೆ ಕನ್ನಡ ಬರುವವರನ್ನು ಕಳಿಸಲು ವ್ಯವಸ್ಥಾಪಕ ಅಥವಾ ಮಾಲೀಕರಲ್ಲಿ ಮನವಿ ಮಾಡಿ. ಕನ್ನಡ ನೆಲದಲ್ಲಿ ಕನ್ನಡದಲ್ಲಿ ಸೇವೆ ಪಡೆದುಕೊಳ್ಳುವುದು ನಮ್ಮ ಸಂವಿಧಾನಬದ್ಧ ಹಕ್ಕಾಗಿದ್ದು, ಜೊತೆಗೆ ಇಂತಹ ಬೇಡಿಕೆ ಹೆಚ್ಚಾದಾಗ ಕನ್ನಡಿಗರಿಗೆ ಹೆಚ್ಚಿನ ಉದ್ಯೋಗಾವಕಾಶವನ್ನು ಕಲ್ಪಿಸಿದಂತಾಗುತ್ತದೆ. ಅನಿವಾರ್ಯ ಸಂದರ್ಭಗಳನ್ನು ಹೊರತುಪಡಿಸಿ, ಮನೆ, ಕಛೇರಿ ಮುಂತಾದ ಸ್ಥಳಗಳಲ್ಲಿ ಕನ್ನಡದಲ್ಲೇ ಮಾತಾಡಿ. ಈ ಮೂಲಕ ಬೆಂಗಳೂರಿನಲ್ಲಿ ಕನ್ನಡ ಕಲಿಕೆ ಅನಿವಾರ್ಯವಲ್ಲ ಎಂಬ ಮಾತನ್ನು ಸುಳ್ಳಾಗಿಸಿ.</string>
+    <string name="GurukulaHeaderTitleText">Gurukula (ಗುರುಕುಲ)</string>
+    <string name="AboutUsTitleText">About Us (ನಮ್ಮ ಬಗ್ಗೆ)</string>
+    <string name="OurTeamTitleText">Our Team (ನಮ್ಮ ತಂಡ)</string>
+    <string name="ProgramesTitleText">Programes (ಕಾರ್ಯಕ್ರಮಗಳು)</string>
+    <string name="HometitleText">Home (ಮುಖಪುಟ)</string>
+    <string name="GalleryTitleText">Gallery (ಚಿತ್ರಶಾಲೆ)</string>
+
+</resources>

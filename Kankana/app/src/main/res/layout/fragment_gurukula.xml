@@ -1,0 +1,54 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:kankana="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="kankana.kankana.Gurukula">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center">
+
+        <android.support.v7.widget.SearchView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/searchView"
+            kankana:queryHint="@string/searchHint"
+            android:layout_gravity="right"
+            android:focusable="true">
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/inputSearch"
+                android:editable="true" />
+        </android.support.v7.widget.SearchView>
+
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/spinner"
+            android:layout_gravity="center_horizontal"
+            android:entries="@array/gurukulaCategories"
+            android:prompt="@string/categories_prompt"
+            android:layout_margin="5dp"
+            android:dropDownWidth="match_parent"
+            android:focusable="true"
+            android:minHeight="25dp"
+            android:padding="5dp"
+            android:spinnerMode="dialog"
+            android:textAlignment="center"
+            android:layoutMode="clipBounds"
+            android:outlineProvider="paddedBounds"
+            android:popupElevation="48dp"
+            android:popupTheme="@android:color/darker_gray"
+            android:background="@drawable/spinner_border"/>
+        <ListView
+            android:id="@+id/listView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        </ListView>
+    </LinearLayout>
+</FrameLayout>

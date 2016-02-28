@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions>
+    <record english="Who wants ticket ?" kannadaenglish="Yarige beku ticket ?" kannada="ಯಾರಿಗೆ ಬೇಕು ಟಿಕೆಟ್" category="Bus"/>
+    <record english="To which place ?" kannadaenglish="Yellige ?" kannada="ಎಲ್ಲಿಗೆ" category="Bus"/>
+    <record english="To Yelahanka." kannadaenglish="Yelahankage" kannada="ಎಲಹಂಕಾಗೆ" category="Bus"/>
+    <record english="How many tickets you want ?" kannadaenglish="Yestu ticketgalu beku ?" kannada="ಎಷ್ಟು ಟಕೆಟ್ಗಳು ಬೇಕು" category="Bus"/>
+    <record english="I want two tickets." kannadaenglish="yeradu ticketgalu kodi" kannada="ಎರಡು ಟಿಕೆಟ್ಗಳು ಕೊಡಿ" category="Bus"/>
+    <record english="Give 46 rupees" kannadaenglish="46 rupayi kodi !" kannada="46 ರುಪಾಯಿ ಕೊಡಿ" category="Bus"/>
+    <record english="Please tender exact change?" kannadaenglish="Dayavittu sariyaada chillare kodi" kannada="ದಯವಿಟ್ಟು ಸರಿಯಾದ ಚಿಲ್ಲರೆ ಕೊಡಿ" category="Bus"/>
+    <record english="Do you have 6 rupees change ?" kannadaenglish="6 rupayi chillare idiya ?" kannada="6 ರುಪಾಯಿ ಚಿಲ್ಲರೆ ಇದೇನಾ" category="Bus"/>
+    <record english="Yes I do have change ?" kannadaenglish="Howdu chillare ide thagoli" kannada="ಹೌದು ಚಿಲ್ಲರೆ ಇದೆ ತಗೊಳಿ" category="Bus"/>
+    <record english="Please give me the change if you have" kannadaenglish="Dayvittu nimma hatthira chillare iddhare kodi" kannada="ದಯವಿಟ್ಟು ನಿಮ್ಮ ಹತ್ತಿರ ಚಿಲ್ಲರೆ ಇದ್ದರೆ ಕೊಡಿ" category="Bus"/>
+    <record english="No I dont Have change !" kannadaenglish="Illa chillare illa !" kannada="ಇಲ್ಲ ಚಿಲ್ಲರೆ ಇಲ್ಲ" category="Bus"/>
+    <record english="Take the change!" kannadaenglish="Chillare thagoli !" kannada="ಚಿಲ್ಲರೆ ತಗೊಳಿ" category="Bus"/>
+    <record english="Please take I will give you remaining change afterwards" kannadaenglish="Dayavittu thagoli innu ulida chillare amele kodthini" kannada="ದಯವಿಟ್ಟು ತಗೊಳಿ ಇನ್ನು ಉಳಿದ ಚಿಲ್ಲರೆ ಆಮೇಲೆ ಕೊಡ್ತೀನಿ" category="Bus"/>
+    <record english="Give me 2 full tickets and 1 half ticket" kannadaenglish="2 poorthi matthe 1 ardha ticket kodi" kannada="2 ಪೂರ್ತಿ ಮತ್ತೆ 1 ಅರ್ಧ ಟಿಕೆಟ್ ಕೊಡಿ" category="Bus"/>
+    <record english="I have Bus pass" kannadaenglish="Nanna hatthira Bus pass ide" kannada="ನನ್ನ ಹತ್ತಿರ ಬಸ್ ಪಾಸ್ ಇದೆ" category="Bus"/>
+    <record english="Show me the Bus pass" kannadaenglish="Bus pass thorisi" kannada="ಬಸ್ ಪಾಸ್ ತೋರಿಸಿ" category="Bus"/>
+    <record english="If anybody have Bus pass please show the pass !" kannadaenglish="Bus pass iroru pass thorsi !" kannada="ಬಸ್ ಪಾಸ್ ಇರೋರು ಪಾಸ್ ತೋರಿಸಿ" category="Bus"/>
+    <record english="Show me your ID card please?" kannadaenglish="Dayavittu nimma ID card thoristheera?" kannada="ದಯವಿಟ್ಟು ನಿಮ್ಮ ID ಕಾರ್ಡ್ ತೋರಿಸ್ತೀರಾ" category="Bus"/>
+    <record english="Please sign on the Bus pass if you have not signed" kannadaenglish="Dayavittu Bus pass mele sahi madade iroru sahi maadi" kannada="ದಯವಿಟ್ಟು ಬಸ್ ಪಾಸ್ ಮೇಲೆ ಸಹಿ ಮಾಡದೆ ಇರೋರು ಸಹಿ ಮಾಡಿಕೊಳ್ಳಿ" category="Bus"/>
+    <record english="Side please !" kannadaenglish="Dayavittu daari bidi !" kannada="ದಯವಿಟ್ಟು ದಾರಿ ಬಿಡಿ" category="Bus"/>
+    <record english="Who else wants Ticket?" kannadaenglish="Innyarige beku ticket?" kannada="ಇನ್ನೂ ಯಾರಿಗೆ ಬೇಕು ಟಿಕೆಟ್" category="Bus"/>
+    <record english="Please go inside !" kannadaenglish="Dayavittu holagade hogi !" kannada="ದಯವಿಟ್ಟು ಒಳಗಡೆ ಹೋಗಿ" category="Bus"/>
+    <record english="Ticket checking will be there please ask and take the ticket" kannadaenglish="ticket parisheelana irutthade dayavittu ticket keli padeyiri" kannada="ಟಿಕೆಟ್ ಪರಿಶೀಲನೆ ಇರುತ್ತದೆ ದಯವಿಟ್ಟು ಟಿಕೆಟ್ ಕೇಳಿ ಪಡೆಯಿರಿ" category="Bus"/>
+    <record english="Those who are inside please move little more" kannadaenglish="Olage iroru dayavittu inna swalpa olagade sarkoli" kannada="ಒಳಗೆ ಇರೋರು ದಯವಿಟ್ಟು ಇನ್ನೂ ಸ್ವಲ್ಪ ಒಳಗಡೆ ಸರಿದುಕೊಳ್ಳಿ" category="Bus"/>
+    <record english="Matthikere Matthikere, Anybody wants to get down" kannadaenglish="Matthikere Matthikere, Yaaradru iliyoru idira" kannada="ಮತ್ತಿಕೆರೆ ಮತ್ತಿಕೆರೆ, ಯಾರಾದೃ ಇಳಿಯೋರು ಇದೀರಾ" category="Bus"/>
+    <record english="Do you want to get down here?" kannadaenglish="Neevu Ille Ilitheera?" kannada="ನೀವು ಇಲ್ಲೆ ಇಳೀತೀರಾ" category="Bus"/>
+    <record english="Yes I want to get down here!" kannadaenglish="Howdu Naanu Ille Ilitheeni!" kannada="ಔದು ನಾನು ಇಲ್ಲೆ ಇಳೀತೀನಿ" category="Bus"/>
+    <record english="Hold on please" kannadaenglish="Dayvittu Nillisi" kannada="ದಯವಿಟ್ಟು ನಿಲ್ಲಿಸಿ" category="Bus"/>
+    <record english="Will this Bus go to yelahanka?" kannadaenglish="Ee Bus yelahanka hoguttha?" kannada="ಈ ಬಸ್ ಯಲಹಂಕ ಹೋಗುತ್ತಾ" category="Bus"/>
+    <record english="Yes this Bus will go to yelahanka!" kannadaenglish="Howdu ee Bus yelahanka hogutthe!" kannada="ಔದು ಈ ಬಸ್ ಯಲಹಂಕ ಹೋಗುತ್ತೆ" category="Bus"/>
+    <record english="Will this Bus go to Doddaballapura?" kannadaenglish="Ee Bus doddaballapura hoguttha?" kannada="ಈ ಬಸ್ ದೊಡ್ಡಬಳ್ಳಾಪುರ ಹೋಗುತ್ತಾ" category="Bus"/>
+    <record english="No this Bus will not go to Doddaballapura" kannadaenglish="Ee Bus doddaballapura hoguvudilla" kannada="ಇಲ್ಲ ಈ ಬಸ್ ದೊಡ್ಡಬಳ್ಳಾಪುರ ಹೋಗಲ್ಲ" category="Bus"/>
+    <record english="Still how many stops are there to reach Vidhyaranyapura?" kannadaenglish="Innu yestu nildaanagalu idave Vidhyaranyapura baroke?" kannada="ಇನ್ನೂ ಎಷ್ಟು ನಿಲ್ದಾಣಗಳು ಇದಾವೆ ವಿದ್ಯಾರಣ್ಯಪುರ ಬರೋಕೆ" category="Bus"/>
+    <record english="Still 2 more stops are there" kannadaenglish="Innu 2 nildanagalu idave" kannada="ಇನ್ನೂ 2 ನಿಲ್ದಾಣಗಳು ಇದಾವೆ" category="Bus"/>
+    <record english="Please inform me when that stop comes" kannadaenglish="Dayavittu aa nildhana bandaga thilisi" kannada="ದಯವಿಟ್ಟು ಆ ನಿಲ್ದಾಣ ಬಂದಾಗ ತಿಳಿಸಿ" category="Bus"/>
+    <record english="Next stop is Vidhyaranyapura" kannadaenglish="Mundina Nildaana Vidhyaranyapura" kannada="ಮುಂದಿನ ನಿಲ್ದಾಣ ವಿದ್ಯಾರಣ್ಯಪುರ" category="Bus"/>
+    <record english="How far is Yelahanka from Yeshwanthpura" kannadaenglish="Yeshwanthpuradinda yestu doora Yelahankage" kannada="ಯಶವಂತಪುರದಿಂದ ಎಷ್ಟು ದೂರ ಯಲಹಂಕಾಗೆ" category="Bus"/>
+    <record english="Nearly 2 kms" kannadaenglish="Andaaju 2 kms" kannada="ಅಂದಾಜು 2 ಕಿ.ಮೀ" category="Bus"/>
+    <record english="Conductor you haven't given the change yet" kannadaenglish="Conductor neevu innu chillare kottilla" kannada="ಕಂಡಕ್ಟರ್ ನೀವು ಇನ್ವೂ ಚಿಲ್ಲರೆ ಕೊಟ್ಟಿಲ್ಲ" category="Bus"/>
+    <record english="How much change I have to give you?" kannadaenglish="Innu yestu chillare kodabeku nimage?" kannada="ಇನ್ವೂ ಎಷ್ಟು ಚಿಲ್ಲರೆ ಕೊಡಬೇಕು" category="Bus"/>
+    <record english="You have to give me 54rs change" kannadaenglish="Neevu innu 54 rupayi chillare kodabeku" kannada="ನೀವು ಇನ್ನೂ 54 ರೂಪಾಯಿ ಚಿಲ್ಲರೆ ಕೊಡಬೇಕು" category="Bus"/>
+    <record english="Yes I will give" kannadaenglish="Howdu Kodthini" kannada="ಹೌದು ಕೊಡ್ತೀನಿ" category="Bus"/>
+    <record english="OK take the change" kannadaenglish="Sari chillare thagoli" kannada="ಸರಿ ಚಿಲ್ಲರೆ ತಗೊಳಿ" category="Bus"/>
+    <record english="Who are yet to get change?" kannadaenglish="Yaarige innu chillare barabeku?" kannada="ಯಾರಿಗೆ ಇನ್ನೂ ಚಿಲ್ಲರೆ ಬರಬೇಕು" category="Bus"/>
+    <record english="Who have not got the change yet please ask" kannadaenglish="Yaarige innu chillare bandilla dayavittu keli" kannada="ಯಾರಿಗೆ ಇನ್ನೂ ಚಿಲ್ಲರೆ ಬಂದಿಲ್ಲ ದಯವಿಟ್ಟು ಕೇಳಿ " category="Bus"/>
+    <record english="Who wants to get down in next stop please come to door" kannadaenglish="Mundina nildaanadalli iliyoru dayavittu baagila hatthira banni" kannada="ಮುಂದಿನ ನಿಲ್ದಾಣ ಇಳಿಯೋರು ದಯವಿಟ್ಟು ಬಾಗಿಲ ಹತ್ತಿರ ಬನ್ವಿ" category="Bus"/>
+    <record english="Please board up" kannadaenglish="Dayavittu mele hatthi" kannada="ದಯವಿಟ್ಟು ಮೇಲೆ ಹತ್ತಿ" category="Bus"/>
+    <record english="Please come inside" kannadaenglish="Dayavittu holagade banni" kannada="ದಯವಿಟ್ಟು ಒಳಗಡೆ ಬನ್ನಿ" category="Bus"/>
+    <record english="Nobody should stand on the board please" kannadaenglish="Dayavittu yaaru halage mele nilluva haagilla" kannada="ದಯವಿಟ್ಟು ಯಾರು ಹಲಗೆ ಮೇಲೆ ನಿಲ್ಲುವ ಹಾಗಿಲ್ಲ" category="Bus"/>
+    <record english="Those who are there to get down in last stop go to end please" kannadaenglish="Kone nildaanadalli iliyoru konege hogi dayavittu" kannada="ಕೊನೇ ನಿಲ್ದಾಣದಲ್ಲಿ ಇಳಿಯೋರು ಕೊನೇಗೆ ಹೋಗಿ ದಯವಿಟ್ಟು" category="Bus"/>
+
+
+    <record english="Hello Good morning" kannadaenglish="Namaskara Shubhodaya" kannada="testKannada" category="Office"/>
+    <record english="Ha Good morning" kannadaenglish="Ha Shubhodaya" kannada="testKannada" category="Office"/>
+    <record english="Why are you late?" kannadaenglish="Yaak lateu" kannada="testKannada" category="Office"/>
+    <record english="Oh too much of traffic was there" kannadaenglish="Oh thumbaane traffic itthu" kannada="testKannada" category="Office"/>
+    <record english="You came so early" kannadaenglish="Neevu thumba jalidi bandidira" kannada="testKannada" category="Office"/>
+    <record english="Yeah today have lot of work" kannadaenglish="Houdu ivatthu thumba kelsa idhe" kannada="testKannada" category="Office"/>
+    <record english="Is there boss inside" kannadaenglish="Boss olagade idara" kannada="testKannada" category="Office"/>
+    <record english="Yeah boss is there inside" kannadaenglish="Ha boss olage idare" kannada="testKannada" category="Office"/>
+    <record english="May I come in Sir" kannadaenglish="Sir olgade barabahudha" kannada="testKannada" category="Office"/>
+    <record english="Yes please come in" kannadaenglish="Ha dayavittu banni" kannada="testKannada" category="Office"/>
+    <record english="Sir yesterday this much work has been done" kannadaenglish="Sir nenne ishtu kelasa aagide" kannada="testKannada" category="Office"/>
+    <record english="This much of work is yet to be done" kannadaenglish="Ishtu kelasa innu baaki idhe" kannada="testKannada" category="Office"/>
+    <record english="Whats the plan for today Mr. Hegde" kannadaenglish="Yenu plan ivatthige Mr. Hegde" kannada="testKannada" category="Office"/>
+    <record english="Sir today we are planning to do this much of work" kannadaenglish="Sir ivatthu ishtu kelasavannu madabeku andhkondidhivi" kannada="testKannada" category="Office"/>
+    <record english="Ok Mr. Hegde carry on" kannadaenglish="Sari Mr. Hegde mundhuvaresi" kannada="testKannada" category="Office"/>
+    <record english="Thank you Sir" kannadaenglish="Dhanyavaada Sir" kannada="testKannada" category="Office"/>
+    <record english="Are you free now?" kannadaenglish="Neevu biduvidira?" kannada="testKannada" category="Office"/>
+    <record english="Yeah I am free now! Tell me" kannadaenglish="Howdu biduvidini! Heli" kannada="testKannada" category="Office"/>
+    <record english="Can you do a favour for me?" kannadaenglish="Nanage ondhu sahaya madtheera?" kannada="testKannada" category="Office"/>
+    <record english="Yeah tell me! what can I do for you?" kannadaenglish="Ha heli! En madbeku nimagoskara?" kannada="testKannada" category="Office"/>
+    <record english="Can you this part of work for me?" kannadaenglish="Ee bhagada kelsavannu maadi kodtheera nanagoskara?" kannada="testKannada" category="Office"/>
+    <record english="Ofcourse I will do it!" kannadaenglish="Kanditha maadthini!" kannada="testKannada" category="Office"/>
+    <record english="No I am little busy" kannadaenglish="Illa swalpa kelasa idhe" kannada="testKannada" category="Office"/>
+    <record english="Ok no problem" kannadaenglish="sari enu thondre illa" kannada="testKannada" category="Office"/>
+    <record english="I will do it later" kannadaenglish="Naanu adhannu amele madthini" kannada="testKannada" category="Office"/>
+    <record english="This part of work is to be finished within 1'o clock" kannadaenglish="1 ghanteya olage ee bhagada kelasa mugiyabeku" kannada="testKannada" category="Office"/>
+    <record english="OK done" kannadaenglish="Sari aythu" kannada="testKannada" category="Office"/>
+    <record english="Can you bring that file" kannadaenglish="aa  file thartheera" kannada="testKannada" category="Office"/>
+    <record english="Ok I will bring it" kannadaenglish="Sari adhanna thartheeni" kannada="testKannada" category="Office"/>
+    <record english="You need any help?" kannadaenglish="Enadru sahaya bekittha?" kannada="testKannada" category="Office"/>
+    <record english="No no i will only do it!" kannadaenglish="Beda beda Naane madthini!" kannada="testKannada" category="Office"/>
+    <record english="Come lets go for a coffee!" kannadaenglish="Banni coffege hogona!" kannada="testKannada" category="Office"/>
+    <record english="Yeah come lets go" kannadaenglish="Houdu banni hogona" kannada="testKannada" category="Office"/>
+    <record english="Finish the work as soon as possible" kannadaenglish="Yesthtu saadhya aguttho ashtu jaldi kelasa mugisi" kannada="testKannada" category="Office"/>
+    <record english="For sure" kannadaenglish="Kanditha" kannada="testKannada" category="Office"/>
+    <record english="Is the work done?" kannadaenglish="Kelsa aytha?" kannada="testKannada" category="Office"/>
+    <record english="This part of work is finished" kannadaenglish="Ee bhagada kelasa mugidide" kannada="testKannada" category="Office"/>
+    <record english="Fine lets go for lunch" kannadaenglish="Sari banni ootakke hogona" kannada="testKannada" category="Office"/>
+    <record english="How much of work is still pending?" kannadaenglish="Innu yestu kelasa baaki idhe?" kannada="testKannada" category="Office"/>
+    <record english="Only this much of work remaining" kannadaenglish="Innu ishtu kelasa maathra baaki idhe" kannada="testKannada" category="Office"/>
+    <record english="Lets finish it soon" kannadaenglish="Adashtu bega mugisona" kannada="testKannada" category="Office"/>
+    <record english="Work is done" kannadaenglish="Kelasa mugeethu" kannada="testKannada" category="Office"/>
+    <record english="You done the remaining work?" kannadaenglish="Ulidha kelasavannu mughisidra?" kannada="testKannada" category="Office"/>
+    <record english="Sir today the reaming work has been done" kannadaenglish="Sir ivatthu ulidha kelasavannu mugisi aagidhe" kannada="testKannada" category="Office"/>
+    <record english="Good job Mr. Hegde" kannadaenglish="Olle kelasa Mr. Hegde" kannada="testKannada" category="Office"/>
+    <record english="Sir shall I leave on" kannadaenglish="Sir naaninnu hogabahuda" kannada="testKannada" category="Office"/>
+    <record english="Yes you can leave now" kannadaenglish="Sari neevinnu hogabahudu" kannada="testKannada" category="Office"/>
+
+
+    <record english="Where you want to go?" kannadaenglish="Ellige?" kannada="testKannada" category="Auto Rickshaw"/>
+    <record english="Jayanagar Side" kannadaenglish="Jayanagarada kade Barutteera ?" kannada="testKannada" category="Auto Rickshaw"/>
+    <record english="No I will not come that side" kannadaenglish="Illa aa kadege baruvudilla" kannada="testKannada" category="Auto Rickshaw"/>
+    <record english="Yes I will come, 100 RS will be the fare" kannadaenglish="Howdu baruttene, Nooru roopayi aagutte" kannada="testKannada" category="Auto Rickshaw"/>
+    <record english="Put meter" kannadaenglish="Meetar haaki" kannada="testKannada" category="Auto Rickshaw"/>
+    <record english="No I will not put meter" kannadaenglish="Illa meter haakodakke aagalla" kannada="testKannada" category="Auto Rickshaw"/>
+    <record english="Give 90 RS" kannadaenglish="Tobhattu roopayi kodi" kannada="testKannada" category="Auto Rickshaw"/>
+    <record english="No I will give 60 RS" kannadaenglish="Illa naanu aravattu roopayi koduttene" kannada="testKannada" category="Auto Rickshaw"/>
+    <record english="Give75 RS and Get in" kannadaenglish="75 RS kodi; Hatti" kannada="testKannada" category="Auto Rickshaw"/>
+    <record english="No I will give only 70 RS, Are you ready to come or not?" kannadaenglish="Illa, Naanu 20 RS ashte koduttene. Barutteera illavaa?" kannada="testKannada" category="Auto Rickshaw"/>
+    <record english="Ok Get in" kannadaenglish="Aayitu hatti" kannada="testKannada" category="Auto Rickshaw"/>
+    <record english="Where you want to go in Jayanagar?" kannadaenglish="Jayanagaradalli neevu ellige hogabeku?" kannada="testKannada" category="Auto Rickshaw"/>
+    <record english="I want to go Sapna Book House" kannadaenglish="Naanu sapna book house ge hogabeku" kannada="testKannada" category="Auto Rickshaw"/>
+    <record english="OK" kannadaenglish="Aayitu" kannada="testKannada" category="Auto Rickshaw"/>
+    <record english="This is Sapna Book House, Please get down" kannadaenglish="Ide sapna book house. Dayavittu iliyiri" kannada="testKannada" category="Auto Rickshaw"/>
+    <record english="How much?" kannadaenglish="Eshtu?" kannada="testKannada" category="Auto Rickshaw"/>
+    <record english="Its 55 RS (After seeing Meter)" kannadaenglish="Aivattu roopayi aagide (Meetar nodida nantara)" kannada="testKannada" category="Auto Rickshaw"/>
+    <record english="Do you have 5 RS? (After you giving 100 RS)" kannadaenglish="Aidu roopayi chillare ideya (Neevu nooru roopayi kotta nantara)?" kannada="testKannada" category="Auto Rickshaw"/>
+    <record english="Yes I have Take it (If you have 5 RS)" kannadaenglish="Howdu ide. Tegedukolli (Nimma hattira aidu roopayi chillare iddare)" kannada="testKannada" category="Auto Rickshaw"/>
+    <record english="Thank you sir/madam" kannadaenglish="Dhanyavaadagalu sir/madam" kannada="testKannada" category="Auto Rickshaw"/>
+    <record english="No I don’t have (If you don’t have 5 RS)" kannadaenglish="Illa nanna hattira illa (Nimma hattira aidu roopayi chillare illade iddaga)" kannada="testKannada" category="Auto Rickshaw"/>
+
+
+    <record english="SHOPPING" kannadaenglish="KHAREEDI" kannada="test" category="Shopping"/>
+    <record english="CLOTHES" kannadaenglish="vastra/ batte" kannada="test" category="Shopping"/>
+    <record english="FRUITS" kannadaenglish="HANNUGALU" kannada="test" category="Shopping"/>
+    <record english="VEGETABLES" kannadaenglish="TARAKARIGALU" kannada="test" category="Shopping"/>
+    <record english="MILK" kannadaenglish="HAALU" kannada="test" category="Shopping"/>
+    <record english="EGG" kannadaenglish="MOTTE" kannada="test" category="Shopping"/>
+    <record english="tomato" kannadaenglish="goodehannu" kannada="test" category="Shopping"/>
+    <record english="potato" kannadaenglish="aloogedde" kannada="test" category="Shopping"/>
+    <record english="onion" kannadaenglish="ullagaddi" kannada="test" category="Shopping"/>
+    <record english="carrot" kannadaenglish="garjari" kannada="test" category="Shopping"/>
+    <record english="suger" kannadaenglish="sakkare" kannada="test" category="Shopping"/>
+    <record english="jaggery" kannadaenglish="bella" kannada="test" category="Shopping"/>
+    <record english="ghee" kannadaenglish="tuppa" kannada="test" category="Shopping"/>
+    <record english="oil" kannadaenglish="enne" kannada="test" category="Shopping"/>
+    <record english="butter" kannadaenglish="navaneetha/ benne" kannada="test" category="Shopping"/>
+    <record english="bitterguard" kannadaenglish="hagala kai" kannada="test" category="Shopping"/>
+    <record english="snake guard" kannadaenglish="paduvala kai" kannada="test" category="Shopping"/>
+    <record english="brinjal" kannadaenglish="badanekai" kannada="test" category="Shopping"/>
+    <record english="cabbage" kannadaenglish="navilu kosu/ ele kosu" kannada="test" category="Shopping"/>
+    <record english="cauliflower" kannadaenglish="hookosu" kannada="test" category="Shopping"/>
+    <record english="ladies finger" kannadaenglish="bende kai" kannada="test" category="Shopping"/>
+    <record english="lemon" kannadaenglish="nimbe hannu" kannada="test" category="Shopping"/>
+    <record english="orange" kannadaenglish="kittale hannu" kannada="test" category="Shopping"/>
+    <record english="chiku" kannadaenglish="sapota hannu" kannada="test" category="Shopping"/>
+    <record english="papaya" kannadaenglish="parangi hannu" kannada="test" category="Shopping"/>
+    <record english="jack fruit" kannadaenglish="halasina hannu" kannada="test" category="Shopping"/>
+    <record english="apple" kannadaenglish="sebu " kannada="test" category="Shopping"/>
+    <record english="gauva" kannadaenglish="perala/ seebe hannu" kannada="test" category="Shopping"/>
+    <record english="grapes" kannadaenglish="drakshi" kannada="test" category="Shopping"/>
+    <record english="star fruit" kannadaenglish="mandala hannu" kannada="test" category="Shopping"/>
+    <record english="gooseberry" kannadaenglish="nelli kai" kannada="test" category="Shopping"/>
+    <record english="pumpkin" kannadaenglish="boodu gumabal" kannada="test" category="Shopping"/>
+    <record english="sweet pumpkin" kannadaenglish="sihi gumbala" kannada="test" category="Shopping"/>
+    <record english="lichi" kannadaenglish="kannu gudde hannu" kannada="test" category="Shopping"/>
+    <record english="clove" kannadaenglish="lavanga" kannada="test" category="Shopping"/>
+    <record english="mugnet" kannadaenglish="jaikai" kannada="test" category="Shopping"/>
+    <record english="cashew" kannadaenglish="godambi" kannada="test" category="Shopping"/>
+    <record english="elaichi" kannadaenglish="elakki" kannada="test" category="Shopping"/>
+    <record english="almond" kannadaenglish="badami" kannada="test" category="Shopping"/>
+    <record english="sooji" kannadaenglish="rave" kannada="test" category="Shopping"/>
+    <record english="coconut" kannadaenglish="tenginakai" kannada="test" category="Shopping"/>
+    <record english="coriander leaves" kannadaenglish="kottambari soppu" kannada="test" category="Shopping"/>
+    <record english="coriander seeds" kannadaenglish="kottambari brrja" kannada="test" category="Shopping"/>
+    <record english="rice" kannadaenglish="akki" kannada="test" category="Shopping"/>
+    <record english="urad dal" kannadaenglish="uddina bele" kannada="test" category="Shopping"/>
+    <record english="whole wheat" kannadaenglish="godhi" kannada="test" category="Shopping"/>
+    <record english="wheat flour" kannadaenglish="godhi hittu" kannada="test" category="Shopping"/>
+    <record english="tuar dal" kannadaenglish="togari bele" kannada="test" category="Shopping"/>
+    <record english="raddish" kannadaenglish="moolangi" kannada="test" category="Shopping"/>
+    <record english="ginger" kannadaenglish="shunti" kannada="test" category="Shopping"/>
+    <record english="garlic" kannadaenglish="bellulli" kannada="test" category="Shopping"/>
+    <record english="tamarind" kannadaenglish="hunise hannu" kannada="test" category="Shopping"/>
+    <record english="ground nut" kannadaenglish="kadale beeja" kannada="test" category="Shopping"/>
+    <record english="cerels" kannadaenglish="dhanya" kannada="test" category="Shopping"/>
+    <record english="fish" kannadaenglish="meenu" kannada="test" category="Shopping"/>
+    <record english="chiken" kannadaenglish="koli mamsa" kannada="test" category="Shopping"/>
+    <record english="mutton" kannadaenglish="kuri mamsa" kannada="test" category="Shopping"/>
+    <record english="rice flour" kannadaenglish="akki hittu" kannada="test" category="Shopping"/>
+    <record english="all purpose flour" kannadaenglish="maida hittu" kannada="test" category="Shopping"/>
+    <record english="how much" kannadaenglish="eshtu" kannada="test" category="Shopping"/>
+    <record english="give" kannadaenglish="kodi" kannada="test" category="Shopping"/>
+    <record english="what is this" kannadaenglish="enidu" kannada="test" category="Shopping"/>
+    <record english="please give the change" kannadaenglish="chillare kodi" kannada="test" category="Shopping"/>
+    <record english="is this fresh?" kannadaenglish="ivattinda?" kannada="test" category="Shopping"/>
+    <record english="detergent" kannadaenglish="sopina pudi" kannada="test" category="Shopping"/>
+    <record english="beverages" kannadaenglish="tampu paneeya" kannada="test" category="Shopping"/>
+    <record english="baby care" kannadaenglish="makkala samanu" kannada="test" category="Shopping"/>
+    <record english="soaps and detergents" kannadaenglish="sbatte ogeyuva saboonu" kannada="test" category="Shopping"/>
+    <record english="beauty" kannadaenglish="soundarya vardhka" kannada="test" category="Shopping"/>
+    <record english="toys" kannadaenglish="aatike" kannada="test" category="Shopping"/>
+    <record english="grocery" kannadaenglish="dinasi" kannada="test" category="Shopping"/>
+    <record english="milk" kannadaenglish="haalu" kannada="test" category="Shopping"/>
+    <record english="curds" kannadaenglish="mosaru" kannada="test" category="Shopping"/>
+    <record english="cheese" kannadaenglish="cheese" kannada="test" category="Shopping"/>
+    <record english="paneer" kannadaenglish="paneer" kannada="test" category="Shopping"/>
+    <record english="juice" kannadaenglish="tampu paneeya" kannada="test" category="Shopping"/>
+    <record english="corn" kannadaenglish="jola" kannada="test" category="Shopping"/>
+    <record english="coffee" kannadaenglish="kaapi" kannada="test" category="Shopping"/>
+    <record english="tea" kannadaenglish="chaha" kannada="test" category="Shopping"/>
+    <record english="shoes" kannadaenglish="bootu/ chappali" kannada="test" category="Shopping"/>
+    <record english="perfumes" kannadaenglish="sugandha dravya" kannada="test" category="Shopping"/>
+    <record english="How much is this for?" kannadaenglish="Idakke / ishtakke eshtu?" kannada="test" category="Shopping"/>
+    <record english="This is too expensive" kannadaenglish="Idu jasti/ dubari aitu" kannada="test" category="Shopping"/>
+    <record english="What is teh final price for this?" kannadaenglish="Eshatkke kodtira?" kannada="test" category="Shopping"/>
+    <record english="I wish I had one" kannadaenglish="Nan hatra noo iddidire" kannada="test" category="Shopping"/>
+    <record english="He likes it very much" kannadaenglish="Avnige tumba ishta aitu" kannada="test" category="Shopping"/>
+    <record english="She likes it very much" kannadaenglish="Avalige tumba ishta aitu" kannada="test" category="Shopping"/>
+    <record english="I like it" kannadaenglish="Nange ishta aitu" kannada="test" category="Shopping"/>
+    <record english="I don't like it" kannadaenglish="Nange ishta agilla" kannada="test" category="Shopping"/>
+    <record english="I don't want it" kannadaenglish="Nanage idu beda" kannada="test" category="Shopping"/>
+    <record english="I will take that one also" kannadaenglish="Nanu adannu kondukoltene" kannada="test" category="Shopping"/>
+    <record english="Which one do you like?" kannadaenglish="Ninge yavdu ishta aitu?" kannada="test" category="Shopping"/>
+    <record english="I still have not decided" kannadaenglish="Naninnu nirdhara madlilla" kannada="test" category="Shopping"/>
+    <record english="Do you have anything cheaper?" kannadaenglish="Idakkinta kadime beleyalli idiya?" kannada="test" category="Shopping"/>
+    <record english="How much do I owe you?" kannadaenglish="Nanu ninage eshtu kodabeku?" kannada="test" category="Shopping"/>
+    <record english="How are you paying?" kannadaenglish="Hege hana kodtiya?" kannada="test" category="Shopping"/>
+    <record english="Sorry we don't accept credit card" kannadaenglish="Kshamisi navu credit ccards sweekarisuvudilla" kannada="test" category="Shopping"/>
+    <record english="We only accept cash" kannadaenglish="Navu hana kodutteve" kannada="test" category="Shopping"/>
+    <record english="Which one is better?" kannadaenglish="Yavudu chennagide?" kannada="test" category="Shopping"/>
+    <record english="Are they the same?" kannadaenglish="Ella onde na?" kannada="test" category="Shopping"/>
+    <record english="This includes that also" kannadaenglish="Idralli adu seridiya?" kannada="test" category="Shopping"/>
+    <record english="Can I try it on?" kannadaenglish="Idanna haki/ tottu nodala?" kannada="test" category="Shopping"/>
+    <record english="I don't have enough money" kannadaenglish="Nannalli/ nan hatra bekada hana illa." kannada="test" category="Shopping"/>
+    <record english="Do you have any money?" kannadaenglish="Nin hatra hana/ duddidiya?" kannada="test" category="Shopping"/>
+    <record english="Can I borrow some money?" kannadaenglish="Swalpa hana sala sigatta?" kannada="test" category="Shopping"/>
+    <record english="The big one or the small one?" kannadaenglish="Doddada athava sannada?" kannada="test" category="Shopping"/>
+    <record english="Which one is cheaper?" kannadaenglish="Idaralli yavudu agga?" kannada="test" category="Shopping"/>
+    <record english="Which one is best?" kannadaenglish="I daralli yavudu olleyadu?" kannada="test" category="Shopping"/>
+    <record english="What are you looking for?" kannadaenglish="Ninagenu beku?" kannada="test" category="Shopping"/>
+    <record english="Give it to me" kannadaenglish="Nanage kodu." kannada="test" category="Shopping"/>
+    <record english="This is for you" kannadaenglish="Idu ninage" kannada="test" category="Shopping"/>
+    <record english="This is very beautiful" kannadaenglish="Idu bahala sundaravagide" kannada="test" category="Shopping"/>
+    <record english="I will buy this" kannadaenglish="Idanna nanu kondukoltene/ khareedisuttene" kannada="test" category="Shopping"/>
+    <record english="I would like to buy this" kannadaenglish="Idanna kondukolluva manasside." kannada="test" category="Shopping"/>
+    <record english="I would like to return this" kannadaenglish="Idanna hindirugisabeku." kannada="test" category="Shopping"/>
+    <record english="This does not work" kannadaenglish="Idu kelasa maduvudilla" kannada="test" category="Shopping"/>
+    <record english="This is broken" kannadaenglish="Idu odedu hogide" kannada="test" category="Shopping"/>
+    <record english="Can you fix this?" kannadaenglish="Idanna sari madi/padisi kodtira?" kannada="test" category="Shopping"/>
+    <record english="This is cheap" kannadaenglish="Idu agga." kannada="test" category="Shopping"/>
+    <record english="I like this" kannadaenglish="Nanage ishta aitu." kannada="test" category="Shopping"/>
+    <record english="Do you have enough money?" kannadaenglish="Ninnalli idakke bekadashtu hana/ duddu/ kaasu ideya?" kannada="test" category="Shopping"/>
+    <record english="I dont have any money" kannadaenglish="Nan hatra hana illa." kannada="test" category="Shopping"/>
+    <record english="Can I pay by credit card?" kannadaenglish="Credit card moolaka hana kodabahuda?" kannada="test" category="Shopping"/>
+
+
+    <record english="Travel" kannadaenglish="Pravasa" kannada="ಪ್ರವಾಸ" category="Travel"/>
+    <record english="How do you like Bangalore?" kannadaenglish="Nimage bengaluru hege annisuttade ?" kannada="ನಿಮಗೆ ಬೆಂಗಳೂರು ಹೇಗೆ ಅನ್ನಿಸುತ್ತದೆ ?" category="Travel"/>
+    <record english="When did you arrive in Bangalore?" kannadaenglish="Nivu bengaluru yavaga bandiddu ?" kannada="ನೀವು ಬೆಂಗಳೂರು ಯಾವಾಗ ಬಂದಿದ್ದು ?" category="Travel"/>
+    <record english="Bangalore is very beautiful place" kannadaenglish="bengaluru tumba olleya jaaga" kannada="ಬೆಂಗಳೂರು ತುಂಬಾ ಒಳ್ಳೆಯ ಜಾಗ" category="Travel"/>
+    <record english="Bangalore is different from Chennai" kannadaenglish="bengaluru hagu chennai ge vyatyasa ide" kannada="ಬೆಂಗಳೂರು ಹಾಗೂ ಚೆನ್ನೈ ಗೆ ವ್ಯತ್ಯಾಸ ಇದೆ" category="Travel"/>
+    <record english="Have you been to Bangalore?" kannadaenglish="bengaluru ge hogiddira ?" kannada="ಬೆಂಗಳೂರು ಗೆ ಹೋಗಿದ್ದೀರಾ ?" category="Travel"/>
+    <record english="I haven't been there yet" kannadaenglish="Nanu innu allige hogilla" kannada="ನಾನು ಇನ್ನೂ ಅಲ್ಲಿಗೆ ಹೋಗಿಲ್ಲ" category="Travel"/>
+    <record english="I have been there once" kannadaenglish="Ondu sala allige hogiddene" kannada="ಒಂದು ಸಲ ಅಲ್ಲಿಗೆ ಹೋಗಿದ್ದೇನೆ" category="Travel"/>
+    <record english="My father has been there" kannadaenglish="Nanna tande allige hogiddare" kannada="ನನ್ನ ತಂದೆ ಅಲ್ಲಿಗೆ ಹೋಗಿದ್ದಾರೆ" category="Travel"/>
+    <record english="Would you like to go there?" kannadaenglish="Allige hogabeka ?" kannada="ಅಲ್ಲಿಗೆ ಹೋಗಬೇಕಾ ?" category="Travel"/>
+    <record english="Where can I buy tickets?" kannadaenglish="Tiketu elli tegedukollabeku ?" kannada="ಟಿಕೇಟು ಎಲ್ಲಿ ತೆಗೆದುಕೊಳ್ಳಬೇಕು ?" category="Travel"/>
+    <record english="One ticket to bangalore please" kannadaenglish="Dayavittu bengaluru ge ondu tiket kodi" kannada="ದಯವಿಟ್ಟು ಬೆಂಗಳೂರು ಗೆ ಒಂದು ಟಿಕೆಟ್ ಕೊಡಿ" category="Travel"/>
+    <record english="One way or round trip?" kannadaenglish="Hogalu athava hogi baralu ?" kannada="ಹೋಗಲು ಅಥವಾ ಹೋಗಿ ಬರಲು ?" category="Travel"/>
+    <record english="A one way ticket" kannadaenglish="Hogalu matra kodi" kannada="ಹೋಗಲು ಮಾತ್ರ ಕೊಡಿ" category="Travel"/>
+    <record english="A round trip ticket" kannadaenglish="Hogi baralu ticket kodi" kannada="ಹೋಗಿ ಬರಲು ಟಿಕೆಟ್ ಕೊಡಿ" category="Travel"/>
+    <record english="What's the exchange rate for dollar?" kannadaenglish="Dollar ge badali dara Estu ide ?" kannada="ಡಾಲರ್ ಗೆ ಬದಲಿ ದರ ಎಸ್ಟು ಇದೆ ?" category="Travel"/>
+    <record english="Where can I exchange dollar" kannadaenglish="dollar elli badali madikollabahudu? " kannada=" ಎಲ್ಲಿ ಬದಲಿ ಮಾಡಿಕೊಳ್ಳಬಹುದು?" category="Travel"/>
+    <record english="Do you accept  dollar?" kannadaenglish="Nivu dollar tegedukolluttira ?" kannada="ನೀವು ಡಾಲರ್ ತೆಗೆದುಕೊಳ್ಳುತ್ತೀರ ?" category="Travel"/>
+    <record english="Take me to the station" kannadaenglish="Nildaanakke karedukondu hogi" kannada="ನಿಲ್ದಾಣಕ್ಕೆ ಕರೆದುಕೊಂಡು ಹೋಗಿ" category="Travel"/>
+    <record english="Can I see your passport please?" kannadaenglish="Dayavittu nimma passport torisi ?" kannada="ದಯವಿಟ್ಟು ನಿಮ್ಮ ಪಾಸ್‌ಪೋರ್ಟ್ ತೋರಿಸಿ ?" category="Travel"/>
+    <record english="What's you address?" kannadaenglish="Nimma vilaasa elli ?" kannada="ನಿಮ್ಮ ವಿಳಾಸ ಎಲ್ಲಿ ?" category="Travel"/>
+    <record english="Where are you right now?" kannadaenglish="iga elliddiri ?" kannada="ಈಗ ಎಲ್ಲಿದ್ದೀರಿ ?" category="Travel"/>
+    <record english="Whare are you going?" kannadaenglish="Elllige hoguttiddiri ?" kannada="ಎಲ್ಲ್ಲಿಗೆ ಹೋಗುತ್ತಿದ್ದೀರಿ ? " category="Travel"/>
+    <record english="I have been there already" kannadaenglish="Nanu allige hogiddene" kannada="ನಾನು ಅಲ್ಲಿಗೆ ಹೋಗಿದ್ದೇನೆ" category="Travel"/>
+    <record english="I am going to grocery store" kannadaenglish="Nanu kirani angadige hoguttiddene" kannada="ನಾನು ಕಿರಾಣಿ ಅಂಗಡಿಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ" category="Travel"/>
+    <record english="How was the treat?" kannadaenglish="Nivu yake hoguttilla ?" kannada="ನೀವು ಯಾಕೆ ಹೋಗುತ್ತಿಲ್ಲ ?" category="Travel"/>
+    <record english="Please fill my tank" kannadaenglish="Nanna tank tumbisi" kannada="ನನ್ನ ಟ್ಯಾಂಕ್ ತುಂಬಿಸಿ" category="Travel"/>
+    <record english="Can I park here?" kannadaenglish="illi park madabahuda ?" kannada="ಇಲ್ಲಿ ಪಾರ್ಕ್ ಮಾಡಬಹುದಾ ?" category="Travel"/>
+    <record english="Where is the station?" kannadaenglish="Nildaana ellide ?" kannada="ನಿಲ್ದಾಣ ಎಲ್ಲಿದೆ ?" category="Travel"/>
+    <record english="How do I get the station?" kannadaenglish="Nildaanakke hege hogabeku ?" kannada="ನಿಲ್ದಾಣಕ್ಕೆ ಹೇಗೆ ಹೋಗಬೇಕು ?" category="Travel"/>
+    <record english="Is there a hotel near by?" kannadaenglish="Hattiradalli hotel ideya ?" kannada="ಹತ್ತಿರದಲ್ಲಿ ಹೋಟೆಲ್ ಇದೆಯಾ ?" category="Travel"/>
+    <record english="Is there a restaurant near by?" kannadaenglish="Hattiradalli upahaara mandira ideya ?" kannada="ಹತ್ತಿರದಲ್ಲಿ ಉಪಹಾರ ಮಂದಿರ ಇದೆಯಾ ?" category="Travel"/>
+    <record english="Have a good trip" kannadaenglish="Shubha pravasa" kannada="ಶುಭ ಪ್ರವಾಸ" category="Travel"/>
+    <record english="Where is the wahsroom?" kannadaenglish="Washroom ellide ?" kannada="ವಾಶ್‌ರೂಮ್ ಎಲ್ಲಿದೆ ?" category="Travel"/>
+    <record english="Can you call a taxi?" kannadaenglish="Taxi kareyuttira ?" kannada="ಟ್ಯಾಕ್ಸೀ ಕರೆಯುತ್ತೀರಾ ?" category="Travel"/>
+    <record english="Call a taxi" kannadaenglish="Taxi na kareyiri" kannada="ಟ್ಯಾಕ್ಸೀ ನಾ ಕರೆಯಿರಿ" category="Travel"/>
+    <record english="Can you call a rickshaw?" kannadaenglish="Riksha kareyuttira ?" kannada="ರಿಕ್ಷಾ ಕರೆಯುತ್ತೀರಾ ?" category="Travel"/>
+    <record english="I want to go home" kannadaenglish="Nanu manege hogabeku" kannada="ನಾನು ಮನೆಗೆ ಹೋಗಬೇಕು" category="Travel"/>
+    <record english="I want to go hotel" kannadaenglish="Nanu hotel ge hogabeku" kannada="ನಾನು ಹೋಟೆಲ್ ಗೆ ಹೋಗಬೇಕು" category="Travel"/>
+    <record english="I want to go airport" kannadaenglish="Nanu Vimana nildana ke hogabeku" kannada="ನಾನು ವಿಮಾನ ನಿಲ್ದಾಣ ಕೆ ಹೋಗಬೇಕು" category="Travel"/>
+
+
+    <record english="Friend (male)" kannadaenglish="Geleya" kannada="ಗೆಳೆಯ" category="Friends"/>
+    <record english="Friend(Female)" kannadaenglish="Gelati" kannada="ಗೆಳತಿ" category="Friends"/>
+    <record english="I like him" kannadaenglish="Nanage avanu ishta" kannada="ನನಗೆ ಅವನು ಇಷ್ಟ" category="Friends"/>
+    <record english="I like her" kannadaenglish="Nanage avalu ishta" kannada="ನನಗೆ ಅವಳು ಇಷ್ಟ" category="Friends"/>
+    <record english="See you later" kannadaenglish="Matte sigona" kannada="ಮತ್ತೆ ಸಿಗೋಣ" category="Friends"/>
+    <record english="See you tommorrow" kannadaenglish="Nale sigona" kannada="ನಾಳೆ ಸಿಗೋಣ" category="Friends"/>
+    <record english="See you tonight" kannadaenglish="Ratri sigona" kannada="ರಾತ್ರಿ ಸಿಗೋಣ" category="Friends"/>
+    <record english="You are very nice" kannadaenglish="Nivu olleyavaru" kannada="ನೀವು ಒಳ್ಳೆಯವರು" category="Friends"/>
+    <record english="Please call me" kannadaenglish="Dayavittu kare madu" kannada="ದಯವಿಟ್ಟು ಕರೆ ಮಾಡು" category="Friends"/>
+    <record english="Are you comming this evening?" kannadaenglish="Indu sanje baruttira ?" kannada="ಇಂದು ಸಂಜೆ ಬರುತ್ತೀರಾ ?" category="Friends"/>
+    <record english="Are you free tonight?" kannadaenglish="Ratri biduviddira ?" kannada="ರಾತ್ರಿ ಬಿಡುವಿದ್ದೀರ ?" category="Friends"/>
+    <record english="Do you want to come with me?" kannadaenglish="Nanna jote baruttira ?" kannada="ನನ್ನ ಜೊತೆ ಬರುತ್ತೀರಾ ?" category="Friends"/>
+    <record english="Have you seen this movie?" kannadaenglish="Ee cinema nodiddira ?" kannada="ಈ ಸಿನಿಮಾ ನೋಡಿದ್ದೀರಾ ?" category="Friends"/>
+    <record english="What kind of music do you like?" kannadaenglish="Nimage yava tarada sangeeta ishta ?" kannada="ನಿಮಗೆ ಯಾವ ತರದ ಸಂಗೀತ ಇಷ್ಟ ?" category="Friends"/>
+    <record english="At what time does the movie start?" kannadaenglish="Cinema yavaga start aguttade ?" kannada="ಸಿನಿಮಾ ಯಾವಾಗ ಸ್ಟಾರ್ಟ್ ಆಗುತ್ತದೆ ?" category="Friends"/>
+    <record english="Would you like to have dinner with me?" kannadaenglish="Nanna jote ootakke baruttira ?" kannada="ನನ್ನ ಜೊತೆ . ಬರುತ್ತೀರಾ ?" category="Friends"/>
+    <record english="What are you doing tonight?" kannadaenglish="Ratri ge enu maduttira ?" kannada="ರಾತ್ರಿ ಗೆ ಏನು ಮಾಡುತ್ತೀರಾ ?" category="Friends"/>
+    <record english="Where would you like to meet?" kannadaenglish="Elli sigona ?" kannada="ಎಲ್ಲಿ ಸಿಗೋಣ ?" category="Friends"/>
+    <record english="How was the movie?" kannadaenglish="Cinema hegittu ?" kannada="ಸಿನಿಮಾ ಹೇಗಿತ್ತು ?" category="Friends"/>
+    <record english="What are your hobbies?" kannadaenglish="Nimma aasaktigalu enu ?" kannada="ನಿಮ್ಮ ಆಸಕ್ತಿಗಳು ಏನು ?" category="Friends"/>
+    <record english="What's your favourite movie?" kannadaenglish="Nimma ishtada cinema yavudu ?" kannada="ನಿಮ್ಮ ಇಷ್ಟದ ಸಿನಿಮಾ ಯಾವುದು ?" category="Friends"/>
+    <record english="I am just kidding" kannadaenglish="Tamashe maaduttidde" kannada="ತಮಾಷೆ ಮಾಡುತ್ತಿದ್ದೆ" category="Friends"/>
+    <record english="Are you married?" kannadaenglish="Nimage maduve agidiya ?" kannada="ನಿಮಗೆ ಮದುವೆ ಆಗಿದಿಯ ?" category="Friends"/>
+    <record english="I am single" kannadaenglish="Nanu onti idini" kannada="ನಾನು ಒಂಟಿ ಇದೀನಿ" category="Friends"/>
+    <record english="I am married" kannadaenglish="Nanage maduve agide" kannada="ನನಗೆ ಮದುವೆ ಆಗಿದೆ" category="Friends"/>
+    <record english="I trust you" kannadaenglish="nanage nimma mele nambike ide" kannada="ನನಗೆ ನಿಮ್ಮ ಮೇಲೆ ನಂಬಿಕೆ ಇದೆ" category="Friends"/>
+    <record english="Call me" kannadaenglish="Kare madi" kannada="ಕರೆ ಮಾಡಿ" category="Friends"/>
+    <record english="Shall I wait?" kannadaenglish="Naanu kaayale ?" kannada="ನಾನು ಕಾಯಲೆ ?" category="Friends"/>
+    <record english="What are you doing?" kannadaenglish="Enu maduttiddiri ?" kannada="ಏನು ಮಾಡುತ್ತಿದ್ದೀರಿ ?" category="Friends"/>
+    <record english="What are you thinking about?" kannadaenglish="Enu yochane maduttiddiri ?" kannada="ಏನು ಯೋಚನೆ ಮಾಡುತ್ತಿದ್ದೀರಿ ?" category="Friends"/>
+    <record english="What are you two talking about ?" kannadaenglish="Nivibbaru enu mataduttiddiri ?" kannada="ನೀವಿಬ್ಬರೂ ಏನು ಮಾತಾಡುತ್ತಿದ್ದೀರಿ ?" category="Friends"/>
+    <record english="What did you do last night?" kannadaenglish="Ninne ratri enu madidiri ?" kannada="ನಿನ್ನೆ ರಾತ್ರಿ ಏನು ಮಾಡಿದಿರಿ ?" category="Friends"/>
+    <record english="What did you do yesterday?" kannadaenglish="Ninne enu madidiri ?" kannada="ನಿನ್ನೆ ಏನು ಮಾಡಿದಿರಿ ?" category="Friends"/>
+    <record english="What do they study?" kannadaenglish="Avaru enu oduttiddare ?" kannada="ಅವರು ಏನು ಓದುತ್ತಿದ್ದರೆ ?" category="Friends"/>
+    <record english="I hope that's OK" kannadaenglish="Adu sari annisutte" kannada="ಅದು ಸರಿ ಅನ್ನಿಸುತ್ತೆ" category="Friends"/>
+    <record english="I don't mind" kannadaenglish="Paravagilla" kannada="ಪರವಾಗಿಲ್ಲ" category="Friends"/>
+    <record english="I don't think so" kannadaenglish="Nanage hage annisuttilla" kannada="ನನಗೆ ಹಾಗೆ ಅನ್ನಿಸುತ್ತಿಲ್ಲ" category="Friends"/>
+    <record english="I had fun" kannadaenglish="Nanu maja madide" kannada="ನಾನು ಮಜಾ ಮಾಡಿದೆ" category="Friends"/>
+    <record english="How was your day?" kannadaenglish="Nimma dina hegittu ?" kannada="ನಿಮ್ಮ ದಿನ ಹೇಗಿತ್ತು ?" category="Friends"/>
+    <record english="I had a busy day" kannadaenglish="Nanage biduvillada dina" kannada="ನನಗೆ ಬಿಡುವಿಲ್ಲದ ದಿನ" category="Friends"/>
+    <record english="I am going to a party" kannadaenglish="Nanu outanakootakke hoguttiddene" kannada="ನಾನು ಔತಣಕೂಟಕ್ಕೆ ಹೋಗುತ್ತಿದ್ದೇನೆ" category="Friends"/>
+    <record english="When is your birthday?" kannadaenglish="Nimma janmadina yavaga ?" kannada="ನಿಮ್ಮ ಜನ್ಮದಿನ ಯಾವಾಗ ?" category="Friends"/>
+    <record english="When is your wedding anniversary?" kannadaenglish="Nimma vivaha vaarshikotsava yavaga ?" kannada="ನಿಮ್ಮ ವಿವಾಹ ವಾರ್ಷಿಕೋತ್ಸವ ಯಾವಾಗ ?" category="Friends"/>
+    <record english="What do you want to do?" kannadaenglish="Nivu enu madabeku andukondiddiri ?" kannada="ನೀವು ಏನು ಮಾಡಬೇಕು ಅಂದುಕೊಂಡಿದ್ದೀರಿ ?" category="Friends"/>
+    <record english="Will you take me home?" kannadaenglish="Nannannu manege karedukondu hoguttira ?" kannada="ನನ್ನನ್ನು ಮನೆಗೆ ಕರೆದುಕೊಂಡು ಹೋಗುತ್ತಿರ ?" category="Friends"/>
+    <record english="Let's go for a walk" kannadaenglish="Suttadalu hogona baa" kannada="ಸುತ್ತಾಡಲು ಹೋಗೋಣ ಬಾ" category="Friends"/>
+    <record english="What should I wear?" kannadaenglish="Nanu enu dharisali" kannada="ನಾನು ಏನು ಧರಿಸಲಿ" category="Friends"/>
+    <record english="Are you ready?" kannadaenglish="Nivu tayaaru idira ?" kannada="ನೀವು ತಯಾರು ಇದೀರಾ ?" category="Friends"/>
+    <record english="I am ready" kannadaenglish="Nanu tayaaru iddini" kannada="ನಾನು ತಯಾರು ಇದ್ದೀನಿ" category="Friends"/>
+    <record english="I am not ready yet" kannadaenglish="Nanu innu tayaaru aagilla" kannada="ನಾನು ಇನ್ನೂ ತಯಾರು ಆಗಿಲ್ಲ" category="Friends"/>
+    <record english="Shall we leave?" kannadaenglish="Horadonava ?" kannada="ಹೊರಡೊಣವ ?" category="Friends"/>
+
+
+    <record english="How are you" kannadaenglish="Hegideera Neevu?" kannada="ಹೇಗಿದ್ದೀರ ನೀವು " category="Neighbours"/>
+    <record english="I am fine" kannadaenglish="Naanu chennaagideeni" kannada="ನಾನು ಚೆನ್ನಾಗಿದೀನಿ " category="Neighbours"/>
+    <record english="Had your lunch?" kannadaenglish="Neevu oota maadidhra?" kannada="ನೀವು ಊಟ ಮಾಡಿದ್ರ?" category="Neighbours"/>
+    <record english="I had my lunch" kannadaenglish="Naanu oota maadidhe." kannada="ನಾನು ಊಟ ಮಾಡಿದೆ " category="Neighbours"/>
+    <record english="How was your day?" kannadaenglish="Hegittu nimma dina?" kannada="ಹೇಗಿತ್ತು ನಿಮ್ಮ ದಿನ?" category="Neighbours"/>
+    <record english="My day was good." kannadaenglish="Nanna dina chennaagittu." kannada="ನನ್ನ ದಿನ ಚೆನ್ನಾಗಿತ್ತು " category="Neighbours"/>
+    <record english="What was your breakfast today?" kannadaenglish="Ee dina enu thindi madidhri?" kannada="ಈ ದಿನ ಏನು ತಿಂಡಿ ಮಾಡಿದ್ರಿ?" category="Neighbours"/>
+    <record english="I made &quot;dosa&quot; today." kannadaenglish="EE dina &quot;dosey&quot; maadikonde." kannada="ಈ ದಿನ ದೋಸೆ ಮಾಡಿಕೊಂಡೆ " category="Neighbours"/>
+    <record english="Did the doodhwala come today?" kannadaenglish="Ee dina haalinavaru bandhra?" kannada="ಈ ದಿನ ಹಾಲಿನವರು ಬಂದಿದ್ರ?" category="Neighbours"/>
+    <record english="Did the Newspaper boy come today?" kannadaenglish="Ee dina paperinavaru bandhra?" kannada="ಈ ದಿನ ಪೇಪರಿನವರು ಬಂದಿದ್ರ?" category="Neighbours"/>
+    <record english="I missed newspaper today" kannadaenglish="Ee dina paper baralilla namma manege" kannada="ಈ ದಿನ ಪೇಪರ್ ಬರಲಿಲ್ಲ ನಮ್ಮ ಮನೆಗೆ. " category="Neighbours"/>
+    <record english="I missed to get milk today" kannadaenglish="Ee dina haalinavaru baralilla namma manege" kannada="ಈ ದಿನ ಹಾಲಿನವರು ಬರಲಿಲ್ಲ ನಮ್ಮ ಮನೆಗೆ. " category="Neighbours"/>
+    <record english="Is there a shop near by?" kannadaenglish="Hathiradalli angadi idheya?" kannada="ಹತ್ತಿರದಲ್ಲಿ ಅಂಗಡಿ ಇದೆಯಾ?" category="Neighbours"/>
+    <record english="Where is the shop near by?" kannadaenglish="Hathiradalli angadi ellidhe?" kannada="ಹತ್ತಿರದಲ್ಲಿ ಅಂಗಡಿ ಎಲ್ಲಿದೆ?" category="Neighbours"/>
+    <record english="Can I have a cup of sugar please?" kannadaenglish="Ondu battilu sakkare kodtheera dayavittu?" kannada="ಒಂದು ಬಟ್ಟಲು ಸಕ್ಕರೆ ಕೊಡ್ತೀರ ದಯವಿಟ್ಟು?" category="Neighbours"/>
+    <record english="Is there a Doctor nearby?" kannadaenglish="Hathiradalli doctor ellidhaare?" kannada="ಹತ್ತಿರದಲ್ಲಿ ಡಾಕ್ಟರ್ ಎಲ್ಲಿದ್ದಾರೆ?" category="Neighbours"/>
+    <record english="Where is the hospital here?" kannadaenglish="illi aaspathre ellidhey?" kannada="ಇಲ್ಲಿ ಆಸ್ಪತ್ರೆ ಎಲ್ಲಿದೆ?" category="Neighbours"/>
+    <record english="Is there a theatre nearby?" kannadaenglish="Hathiradalli cinema theatre idheya?" kannada="ಹತ್ತಿರದಲ್ಲಿ ಸಿನಿಮಾ ಥಿಯೇಟರ್ ಇದೆಯಾ?" category="Neighbours"/>
+    <record english="How far is the Bus Stand from here?" kannadaenglish="illinda bus niLdhaaNakke eshtu doora?" kannada="ಇಲ್ಲಿಂದ ಬಸ್ ನಿಲ್ದಾಣಕ್ಕೆ ಎಷ್ಟು ದೂರ?" category="Neighbours"/>
+    <record english="Can I get a maid here?" kannadaenglish="Maney kelasa maduvavaru sigthaara?" kannada="ಮನೆಯ ಕೆಲಸ ಮಾಡುವವರು ಸಿಗ್ತಾರ?" category="Neighbours"/>
+    <record english="Do you have a charger?" kannadaenglish="Nimma baLi charger idheya?" kannada="ನಿಮ್ಮ ಬಳಿ ಚಾರ್ಜರ್ ಇದೆಯಾ?" category="Neighbours"/>
+    <record english="Keep an eye on my home please." kannadaenglish="Namma maney kade ondu kaNiDI dayavittu." kannada="ನಮ್ಮ ಮನೆಯ ಕಡೆ ಒಂದು ಕಣ್ಣಿಡಿ ದಯವಿಟ್ಟು " category="Neighbours"/>
+    <record english="Come" kannadaenglish="Banni" kannada="ಬನ್ನಿ " category="Neighbours"/>
+    <record english="Come Inside" kannadaenglish="oLage Banni" kannada="ಒಳಗೆ ಬನ್ನಿ " category="Neighbours"/>
+    <record english="Please sit" kannadaenglish="kulitukolli" kannada="ಕುಳಿತುಕೊಳ್ಳಿ " category="Neighbours"/>
+    <record english="What would you like to have?" kannadaenglish="Enu tegoLtheera? " kannada="ಏನು ತಗೊಳ್ತೀರ?" category="Neighbours"/>
+    <record english="What do you want?" kannadaenglish="Enu beku nimage?" kannada="ಏನು ಬೇಕು ನಿಮಗೆ?" category="Neighbours"/>
+    <record english="I want........" kannadaenglish="Nanage ________ beku" kannada="ನನಗೆ ____ ಬೇಕು " category="Neighbours"/>
+    <record english="No, I dont want." kannadaenglish="beda, nanage beda." kannada="ಬೇಡ, ನನಗೆ ಬೇಡ" category="Neighbours"/>
+    <record english="Are you OK (Healthwise)?" kannadaenglish="Hushaaragi ideera?" kannada="ಹುಷಾರಾಗಿ ಇದ್ದೀರಾ?" category="Neighbours"/>
+    <record english="Hope you are fine." kannadaenglish="Aaraamagi ideera ankoLtheeni." kannada="ಆರಾಮಾಗಿ ಇದ್ದೀರ ಅನ್ಕೊಳ್ತೀನಿ " category="Neighbours"/>
+    <record english="Are you married" kannadaenglish="Nimage maduve aagideya?" kannada="ನಿಮಗೆ ಮದುವೆ ಆಗಿದೆಯ?" category="Neighbours"/>
+    <record english="How many children do you have?" kannadaenglish="Nimage eshtu makkaLiddaare?" kannada="ನಿಮಗೆ ಎಷ್ಟು ಮಕ್ಕಳಿದ್ದಾರೆ?" category="Neighbours"/>
+    <record english="Do they go to school?" kannadaenglish="Makkalu shaalege hoguttaara?" kannada="ಮಕ್ಕಳು ಶಾಲೆಗೆ ಹೋಗ್ತಾರ?" category="Neighbours"/>
+    <record english="Where do you work?" kannadaenglish="Neevu elli kelasa maadutteera?" kannada="ನೀವು ಎಲ್ಲಿ ಕೆಲಸ ಮಾಡ್ತೀರ?" category="Neighbours"/>
+    <record english="I work for &quot;Company&quot;" kannadaenglish="Naanu &quot;Company&quot;yalli kelasa maduttene" kannada="ನಾನು &quot;.....&quot; ಯಲ್ಲಿ ಕೆಲಸ ಮಾಡ್ತೀನಿ " category="Neighbours"/>
+    <record english="Which is your native?" kannadaenglish="Nimma huttooru yaavudu?" kannada="ನಿಮ್ಮ ಹುಟ್ಟೂರು ಯಾವುದು?" category="Neighbours"/>
+    <record english="I am from &quot;City&quot;" kannadaenglish="Naanu &quot;City&quot;inda bandiddene" kannada="ನಾನು &quot;....&quot;ಇಂದ ಬಂದಿದೀನಿ " category="Neighbours"/>
+    <record english="How is life?" kannadaenglish="Jeevana hegide?" kannada="ಜೀವನ ಹೇಗಿದೆ?" category="Neighbours"/>
+    <record english="I had a bad dream last night" kannadaenglish="Ninne rathri ketta kanasu bitthu " kannada="ನಿನ್ನೆ ರಾತ್ರಿ ಕೆಟ್ಟ ಕನಸು ಬಿತ್ತು " category="Neighbours"/>
+    <record english="Do you have a change for 100/-?" kannadaenglish="Nimma baLi noorara chillare ideya?" kannada="ನಿಮ್ಮ ಬಳಿ ನೂರರ ಚಿಲ್ಲರೆ ಇದೆಯಾ?" category="Neighbours"/>
+    <record english="I will be late tonight" kannadaenglish="Ivattu taDavaagi barthini" kannada="ಇವತ್ತು ತಡವಾಗಿ ಬರ್ತೀನಿ " category="Neighbours"/>
+    <record english="This is my wife" kannadaenglish="IvaLu nanna hendathi" kannada="ಇವಳು ನನ್ನ ಹೆಂಡತಿ " category="Neighbours"/>
+    <record english="I love Idli, Sambar, Dosa " kannadaenglish="Nanage iDli, Sambar, doSey bahala ishta." kannada="ನನಗೆ ಇಡ್ಲಿ, ಸಾಂಬರ್, ದೋಸೆ ಬಹಳ ಇಷ್ಟ " category="Neighbours"/>
+    <record english="I am feeling sick" kannadaenglish="Nanage arogya sari illa" kannada="ನನಗೆ ಅರೋಗ್ಯ ಸರಿ ಇಲ್ಲ " category="Neighbours"/>
+    <record english="Is there a temple nearby?" kannadaenglish="hattiradalli devasthana ideye?" kannada="ಹತ್ತಿರದಲ್ಲಿ ದೇವಸ್ಥಾನ ಇದೆಯ?" category="Neighbours"/>
+
+
+    <record english="Colors" kannadaenglish="BaNNagaLu" kannada="test" category="Colors"/>
+    <record english="Red" kannadaenglish="Kempu" kannada="test" category="Colors"/>
+    <record english="Green" kannadaenglish="Hasiru" kannada="test" category="Colors"/>
+    <record english="Blue" kannadaenglish="Neeli" kannada="test" category="Colors"/>
+    <record english="Black" kannadaenglish="Kappu" kannada="test" category="Colors"/>
+    <record english="White" kannadaenglish="BiLi" kannada="test" category="Colors"/>
+    <record english="Yellow" kannadaenglish="Haladi" kannada="test" category="Colors"/>
+    <record english="Orange" kannadaenglish="Kesari" kannada="test" category="Colors"/>
+    <record english="Violet" kannadaenglish="NeraLe" kannada="test" category="Colors"/>
+    <record english="Pink" kannadaenglish="Gulaabi" kannada="test" category="Colors"/>
+
+
+    <record english="Weeks" kannadaenglish="VaaragaLu" kannada="test" category="Calendar"/>
+    <record english="Sunday" kannadaenglish="Bhaanuvaara" kannada="test" category="Calendar"/>
+    <record english="Monday" kannadaenglish="Somavaara" kannada="test" category="Calendar"/>
+    <record english="Tuesday" kannadaenglish="Mangalavaara" kannada="test" category="Calendar"/>
+    <record english="Wednesday" kannadaenglish="Budhavaara" kannada="test" category="Calendar"/>
+    <record english="Thursday" kannadaenglish="Guruvaara" kannada="test" category="Calendar"/>
+    <record english="Friday" kannadaenglish="Shukravaara" kannada="test" category="Calendar"/>
+    <record english="Saturday" kannadaenglish="Shanivaara" kannada="test" category="Calendar"/>
+    <record english="Date" kannadaenglish="Dinaanka" kannada="test" category="Calendar"/>
+    <record english="Today" kannadaenglish="Ivatthu" kannada="test" category="Calendar"/>
+    <record english="Yesterday" kannadaenglish="Ninne or Nenne" kannada="test" category="Calendar"/>
+    <record english="Tomorrow" kannadaenglish="naaLe" kannada="test" category="Calendar"/>
+    <record english="Everyday" kannadaenglish="prathidina" kannada="test" category="Calendar"/>
+    <record english="Day after tomorrow" kannadaenglish="naaDaddu" kannada="test" category="Calendar"/>
+    <record english="Once a week" kannadaenglish="vaaradalli omme" kannada="test" category="Calendar"/>
+    <record english="Once a month" kannadaenglish="thingalige omme" kannada="test" category="Calendar"/>
+    <record english="Year" kannadaenglish="varusha" kannada="test" category="Calendar"/>
+    <record english="What day is it today?" kannadaenglish="ivatthu yaava dina" kannada="test" category="Calendar"/>
+
+
+    <record english="Numbers" kannadaenglish="Sankhye" kannada="test" category="Numbers"/>
+    <record english="1" kannadaenglish="Ondhu" kannada="test" category="Numbers"/>
+    <record english="2" kannadaenglish="EraDu" kannada="test" category="Numbers"/>
+    <record english="3" kannadaenglish="Mooru" kannada="test" category="Numbers"/>
+    <record english="4" kannadaenglish="Naalku" kannada="test" category="Numbers"/>
+    <record english="5" kannadaenglish="Aidhu" kannada="test" category="Numbers"/>
+    <record english="6" kannadaenglish="Aaru" kannada="test" category="Numbers"/>
+    <record english="7" kannadaenglish="yeLu" kannada="test" category="Numbers"/>
+    <record english="8" kannadaenglish="EnTu" kannada="test" category="Numbers"/>
+    <record english="9" kannadaenglish="Ombathu" kannada="test" category="Numbers"/>
+    <record english="10" kannadaenglish="Haththu" kannada="test" category="Numbers"/>
+    <record english="11" kannadaenglish="Hannondu" kannada="test" category="Numbers"/>
+    <record english="12" kannadaenglish="HanneraDu" kannada="test" category="Numbers"/>
+    <record english="13" kannadaenglish="Hadhimooru" kannada="test" category="Numbers"/>
+    <record english="14" kannadaenglish="Hadhinalku" kannada="test" category="Numbers"/>
+    <record english="15" kannadaenglish="Hadhinaidu" kannada="test" category="Numbers"/>
+    <record english="16" kannadaenglish="Hadhinaaru" kannada="test" category="Numbers"/>
+    <record english="17" kannadaenglish="HadhinELu" kannada="test" category="Numbers"/>
+    <record english="18" kannadaenglish="Hadhinentu" kannada="test" category="Numbers"/>
+    <record english="19" kannadaenglish="Hattombathu" kannada="test" category="Numbers"/>
+    <record english="20" kannadaenglish="Epathu" kannada="test" category="Numbers"/>
+    <record english="25" kannadaenglish="Epatthaidhu" kannada="test" category="Numbers"/>
+    <record english="50" kannadaenglish="Ayvathu" kannada="test" category="Numbers"/>
+    <record english="100" kannadaenglish="Nooru" kannada="test" category="Numbers"/>
+    <record english="200" kannadaenglish="Innooru" kannada="test" category="Numbers"/>
+    <record english="300" kannadaenglish="Munnooru" kannada="test" category="Numbers"/>
+    <record english="400" kannadaenglish="Naanooru" kannada="test" category="Numbers"/>
+    <record english="500" kannadaenglish="Ainooru" kannada="test" category="Numbers"/>
+    <record english="600" kannadaenglish="Aarunooru" kannada="test" category="Numbers"/>
+    <record english="700" kannadaenglish="yElunooru" kannada="test" category="Numbers"/>
+    <record english="800" kannadaenglish="Entunooru" kannada="test" category="Numbers"/>
+    <record english="900" kannadaenglish="Ombainooru" kannada="test" category="Numbers"/>
+    <record english="1000" kannadaenglish="Saavira" kannada="test" category="Numbers"/>
+    <record english="2000" kannadaenglish="Eradu Saavira" kannada="test" category="Numbers"/>
+    <record english="Lakh" kannadaenglish="Laksha" kannada="test" category="Numbers"/>
+    <record english="Crore" kannadaenglish="kOTi" kannada="test" category="Numbers"/>
+
+
+    <record english="All the best" kannadaenglish="shubhavaagali" kannada="ಶುಭವಾಗಲಿ" category="Greetings"/>
+    <record english="bangalore is beautiful" kannadaenglish="bengaluru sundaravaagidhe" kannada="ಬೆಂಗಳೂರು ಸುಂದರವಾಗಿಧೆ" category="Greetings"/>
+    <record english="Good afternoon" kannadaenglish="Shubha  Madhyahna " kannada="ಶುಭ ಮಧ್ಯಾಹ್ನ" category="Greetings"/>
+    <record english="Good Day" kannadaenglish="Shubha dina" kannada="ಶುಭ ದಿನ" category="Greetings"/>
+    <record english="Good evening" kannadaenglish="Shubha Sanje" kannada="ಶುಭ ಸಂಜೆ" category="Greetings"/>
+    <record english="Good morning" kannadaenglish="shubhOdaya" kannada="ಶುಭೋದಯ" category="Greetings"/>
+    <record english="Good night" kannadaenglish="shubharaatri" kannada="ಶುಭರಾತ್ರಿ" category="Greetings"/>
+    <record english="goodbye" kannadaenglish="hOgi barutene" kannada="ಹೋಗಿ ಬರುತೇನೆ" category="Greetings"/>
+    <record english="Happy Birthday" kannadaenglish="Huttu habbadha shubhaashayagaLu" kannada="ಹುಟ್ಟು ಹಬ್ಬಧ ಶುಭಾಶಯಗಳು" category="Greetings"/>
+    <record english="Happy Christmas" kannadaenglish="christmas (habbada) shubhaashayagaLu" kannada="ಕ್ರಿಸ್ಮಸ್ (ಹಬ್ಬದ) ಶುಭಾಶಯಗಳು" category="Greetings"/>
+    <record english="Happy Deepavali" kannadaenglish="deepavali (habbada) shubhaashayagaLu" kannada="ದೀಪಾವಳಿ (ಹಬ್ಬದ) ಶುಭಾಶಯಗಳು" category="Greetings"/>
+    <record english="Happy New Year" kannadaenglish="hosa varshada shubhaashayagaLu" kannada="ಹೊಸ ವರ್ಷದ ಶುಭಾಶಯಗಳು" category="Greetings"/>
+    <record english="Happy Ramzam" kannadaenglish="ramzam (habbada) shubhaashayagaLu" kannada="ರಂಜ಼ಾಂ (ಹಬ್ಬದ) ಶುಭಾಶಯಗಳು" category="Greetings"/>
+    <record english="hearty congratulations" kannadaenglish="hrudayapurvaka shubhaashayagaLu" kannada="ಹೃದಯಪೂರ್ವಕ ಶುಭಾಶಯಗಳು" category="Greetings"/>
+    <record english="hello" kannadaenglish="namaskaara" kannada="ನಮಸ್ಕಾರ" category="Greetings"/>
+    <record english="how are you?" kannadaenglish="neevu hEgidheera?" kannada="ನೀವು ಹೇಗಿಧೀರಾ?" category="Greetings"/>
+    <record english="i love bangalore" kannadaenglish="naanu bengalurannu preetisutEne" kannada="ನಾನು ಬೆಂಗಳೂರನ್ನು ಪ್ರೀತಿಸುತೇನೆ" category="Greetings"/>
+    <record english="May God bless you" kannadaenglish="devaru oLLeyadu maaDali" kannada="ದೇವರು ಒಳ್ಳೆಯದು ಮಾಡಲಿ" category="Greetings"/>
+    <record english="thank you" kannadaenglish="dhanyavaadagaLu" kannada="ಧನ್ಯವಾದಗಳು" category="Greetings"/>
+    <record english="thank you very much" kannadaenglish="thumba dhanyavaadagaLu" kannada="ತುಂಬಾ ಧನ್ಯವಾದಗಳು" category="Greetings"/>
+    <record english="very well, thank you" kannadaenglish="chennagidEne, dhanyavaadagaLu" kannada="ಚೆನ್ನಾಗಿದೆನೆ, ಧನ್ಯವಾದಗಳು" category="Greetings"/>
+    <record english="welcome" kannadaenglish="susvaagatha" kannada="ಸುಸ್ವಾಗತ" category="Greetings"/>
+    <record english="what's up?" kannadaenglish="Matte Enu ?" kannada="ಮತ್ತೆ ಏನು ?" category="Greetings"/>
+    <record english="you are beautiful" kannadaenglish="neevu sundaravagidiri" kannada="ನೀವು ಸುಂದರವಾಗಿದಿರಿ" category="Greetings"/>
+    <record english="I am fine" kannadaenglish="Nanu chennagiddene" kannada="ನಾನು ಚೆನ್ನಾಗಿದ್ದೇನೆ" category="Greetings"/>
+    <record english="What's your name ?" kannadaenglish="Nimma Hesarenu" kannada="ನಿಮ್ಮ ಹೆಸರೇನು ?" category="Greetings"/>
+    <record english="My name is Shivakumar" kannadaenglish="Nanna Hesaru shivakumar" kannada="ನನ್ನ ಹೆಸರು ಶಿವಕುಮಾರ್" category="Greetings"/>
+    <record english="Where are you from?" kannadaenglish="Nivu ellinda bandavaru ?" kannada="ನೀವು ಎಲ್ಲಿಂದ ಬಂದವರು ?" category="Greetings"/>
+    <record english="I am from from India" kannadaenglish="Nanu Bharathadinda bandavanu" kannada="ನಾನು ಭಾರತದಿಂದ ಬಂದವನು" category="Greetings"/>
+    <record english="I will meet you there" kannadaenglish="Nanu nimmanu alli beti aguthene" kannada="ನಾನು ನಿಮ್ಮನು ಅಲ್ಲಿ ಬೇಟಿ ಆಗುತೇನೆ" category="Greetings"/>
+    <record english="Nice to meet you" kannadaenglish="Nimmondigina beti chennagithu" kannada="ನಿಮ್ಮೊಂದಿಗಿನ ಬೇಟಿ ಚೆನ್ನಾಗಿತು" category="Greetings"/>
+    <record english="Please" kannadaenglish="Dayavittu" kannada="ದಯವಿಟ್ಟು" category="Greetings"/>
+    <record english="Sorry" kannadaenglish="Kshamisi" kannada="ಕ್ಷಮಿಸಿ" category="Greetings"/>
+    <record english="I Will Come Back" kannadaenglish="Naanu Vapas Baruthene" kannada="ನಾನು ವಾಪಸ್ ಬರುತೇನೆ" category="Greetings"/>
+    <record english="I Want It" kannadaenglish="Idhu Nanege Beku" kannada="ಇದು ನನೆಗೆ ಬೇಕು" category="Greetings"/>
+    <record english="I Don'T Want It" kannadaenglish="Idhu Nanege Beda" kannada="ಇದು ನನೆಗೆ ಬೇಡ" category="Greetings"/>
+    <record english="This Is Good" kannadaenglish="Idhu Chennagidhe" kannada="ಇದು ಚೆನ್ನಾಗಿಧೆ" category="Greetings"/>
+    <record english="Let Us Go" kannadaenglish="Hogona" kannada="ಹೋಗೋಣ" category="Greetings"/>
+    <record english="Come Tomorrow" kannadaenglish="Naale Banni" kannada="ನಾಳೆ ಬನ್ನಿ" category="Greetings"/>
+    <record english="Get Me A Glass Of Water" kannadaenglish="Nanage Ondhu Lota Neeru Kodi" kannada="ನನಗೆ ಒಂಧು ಲೋಟ ನೀರು ಕೊಡಿ" category="Greetings"/>
+    <record english="I Want To Try Again" kannadaenglish="Naanu Matthe Prayathnisuve" kannada="ನಾನು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸುವೆ" category="Greetings"/>
+    <record english="I'Ii Meet You At In The Evening" kannadaenglish="Naanu Sanje Beti Maaduve" kannada="ನಾನು ಸಂಜೆ ಬೇಟಿ ಮಾಡುವೆ" category="Greetings"/>
+    <record english="Please Wait Untill I Am Back" kannadaenglish="Naanu Baruvavarege Kaadhiri" kannada="ನಾನು ಬರುವವರೆಗೆ ಕಾಧಿರಿ" category="Greetings"/>
+    <record english="The Weather Is Pleasant Here" kannadaenglish="Illina Havamaana Chennagidhe" kannada="ಇಲ್ಲಿನ ಹವಾಮಾನ ಚೆನ್ನಾಗಿಧೆ" category="Greetings"/>
+    <record english="Drive Slowly" kannadaenglish="Nidhaanavagi Vahana Chalayisi" kannada="ನಿಧಾನವಾಗಿ ವಾಹನ ಚಲಾಯಿಸಿ" category="Greetings"/>
+    <record english="Pack These Things" kannadaenglish="Ee Saamaanugalannu Pack Maadi" kannada="ಈ ಸಾಮಾನುಗಳನ್ನು ಪ್ಯಾಕ್ ಮಾಡಿ" category="Greetings"/>
+
+
+    <record english="Mother" kannadaenglish="amma    " kannada="ಅಮ್ಮ" category="Relastionships"/>
+    <record english="Father" kannadaenglish="appa    " kannada="ಅಪ್ಪ" category="Relastionships"/>
+    <record english="Son" kannadaenglish="maga    " kannada="ಮಗ" category="Relastionships"/>
+    <record english="Daughter" kannadaenglish="magaLu    " kannada="ಮಗಳು" category="Relastionships"/>
+    <record english="Elder Brother" kannadaenglish="aNNa" kannada="ಅಣ್ಣ" category="Relastionships"/>
+    <record english="Younger brother" kannadaenglish="tamma    " kannada="ತಮ್ಮ" category="Relastionships"/>
+    <record english="Elder sister" kannadaenglish="akka    " kannada="ಅಕ್ಕ" category="Relastionships"/>
+    <record english="Younger sister" kannadaenglish="thangi    " kannada="ತಂಗಿ" category="Relastionships"/>
+    <record english="Grand father" kannadaenglish="ajja    " kannada="ಅಜ್ಜ" category="Relastionships"/>
+    <record english="Grand Mother" kannadaenglish="ajji    " kannada="ಅಜ್ಜಿ" category="Relastionships"/>
+    <record english="Husband" kannadaenglish="ganDa    " kannada="ಗಂಡ" category="Relastionships"/>
+    <record english="Wife" kannadaenglish="henDathi    " kannada="ಹೆಂಡತಿ" category="Relastionships"/>
+    <record english="Father-in-law" kannadaenglish="maava    " kannada="ಮಾವ" category="Relastionships"/>
+    <record english="Mother-in-law" kannadaenglish="atte    " kannada="ಅತ್ತೆ" category="Relastionships"/>
+    <record english="Son in law" kannadaenglish="aLiya    " kannada="ಅಳಿಯ" category="Relastionships"/>
+    <record english="Daughter in law" kannadaenglish="sose    " kannada="ಸೊಸೆ" category="Relastionships"/>
+    <record english="Father's younger brother OR Mother's younger sister's husband" kannadaenglish="chikkappa    " kannada="ಚಿಕ್ಕಪ್ಪ" category="Relastionships"/>
+    <record english="Mother's younger sister OR Father's younger brother's wife" kannadaenglish="chikkamma    " kannada="ಚಿಕ್ಕಮ್ಮ" category="Relastionships"/>
+    <record english="Father's elder brother OR Mother's elder sister's husband" kannadaenglish="doDDappa    " kannada="ದೊಡ್ಡಪ್ಪ" category="Relastionships"/>
+    <record english="Mother's elder sister OR Father's elder brother's wife" kannadaenglish="doDDamma    " kannada="ದೊಡ್ಡಮ್ಮ" category="Relastionships"/>
+    <record english="Mother's brother or father's sister husband" kannadaenglish="sodara maava" kannada="ಸೋದರ ಮಾವ" category="Relastionships"/>
+    <record english="Father's sister or mother's brother's wife" kannadaenglish="sodara athe" kannada="ಸೋದರ ಅತ್ತೆ" category="Relastionships"/>
+
+
+    <record english="Take the books out of almirah" kannadaenglish="Pustakagalanu alemeredinda tegi" kannada="ಪುಸ್ತಕಗಳನ್ನು ಅಲ್ಮೆರದಿಂದ ತೇಗಿ " category="House Maid"/>
+    <record english="Use this" kannadaenglish="Iddanu upyogisi" kannada="ಇದನ್ನು ಉಪಯೋಗಿಸು " category="House Maid"/>
+    <record english="When will you come home?" kannadaenglish="Neenu manege yavaga baruttiya" kannada="ನೀನು ಮನೆಗೆ ಯಾವಾಗ ಬರುತ್ತಿಯ " category="House Maid"/>
+    <record english="Can you clean this?" kannadaenglish="iddanu shuchipadisuttiya " kannada="ಇದನ್ನು ಶುಚಿಪಡಿಸುತ್ತಿಯ." category="House Maid"/>
+    <record english="Do you know cooking?" kannadaenglish="ninage aduge madlu barutadda " kannada="ನಿನಗೆ ಅಡಿಗೆ ಮಾಡಲು ಬರುತ್ತದ " category="House Maid"/>
+    <record english="Wash the clothes" kannadaenglish="batteyannu oggi" kannada="ಬಟ್ಟೆಯನ್ನು ಒಗ್ಗಿ " category="House Maid"/>
+    <record english="Sweep the floor" kannadaenglish="Nelavanu shuchigolisu " kannada="ನೆಲವನ್ನು ಶುಚಿಗೊಳಿಸು " category="House Maid"/>
+    <record english="Mop the floor" kannadaenglish="Nelavanu orisu " kannada="ನಲವನು ಒರಿಸು" category="House Maid"/>
+    <record english="Put it in the cupboard" kannadaenglish="Iddanu beeruli idu" kannada="ಇದ್ದನು ಬೇರುವನಲಿ ಇಡು" category="House Maid"/>
+    <record english="Cook food" kannadaenglish="adige madu" kannada="ಅಡಿಗೆ ಮಾಡು " category="House Maid"/>
+    <record english="Water the plants" kannadaenglish="Geedagalige neeru haku" kannada="ಗಿಡಗಳಿಗೆ ನೀರು ಹಾಕು " category="House Maid"/>
+    <record english="Prepare breakfast" kannadaenglish="Thindiyannu tayarisu" kannada="ತಿಂಡಿ ತಯಾರಿಸು" category="House Maid"/>
+    <record english="Keep everything in it's place" kannadaenglish="Yellavannu onde jagadalli idu" kannada="ಎಲ್ಲವನ್ನು ಒಂದೇ ಜಾಗದಲ್ಲಿ ಇಡು" category="House Maid"/>
+    <record english="Was the car" kannadaenglish="Car tholi" kannada="ಈ ಕಾರ್ ತೊಳಿ" category="House Maid"/>
+    <record english="Wash the bike" kannadaenglish="Bike tholi " kannada="ಈ ಬೈಕ್ ತೊಳಿ" category="House Maid"/>
+    <record english="I am feeling sleepy" kannadaenglish="Nanage neede baruttide" kannada="ನನ್ನಗೆ ನಿದ್ದೆ ಬರುತ್ತಿದೆ " category="House Maid"/>
+    <record english="Go to sleep" kannadaenglish="Hogi malagu" kannada="ಹೋಗಿ ಮಲಗು " category="House Maid"/>
+    <record english="Wake me up at 6" kannadaenglish="6 ghantege yeddelu" kannada="೬ ಕೆ ಎಚ್ಚರ ಮಾಡು " category="House Maid"/>
+    <record english="Let's watch TV" kannadaenglish="T V Nodona" kannada="ಬಾ ಟಿ ವಿ ನೋಡೋಣ " category="House Maid"/>
+    <record english="I need a bath" kannadaenglish="Snana Maduttene" kannada="ನಾನು ಸ್ನಾನ ಮಾಡುತ್ತೆನೆ" category="House Maid"/>
+    <record english="Please canyou switch off the fan" kannadaenglish="Fan off madu" kannada="ದಯವಿಟ್ಟು ಫ್ಯಾನ್ ಆರಿಸು " category="House Maid"/>
+    <record english="I am tired" kannadaenglish="nanage sustu aguttide" kannada="ನನ್ನಗೆ ಸುಸ್ತು ಆಗುತ್ತಿದೆ " category="House Maid"/>
+    <record english="Shall I make you some tea?" kannadaenglish="Nanu chaha tayarisale ?" kannada="ನಾನು ಚಹಾ ಮಾಡಲಾ" category="House Maid"/>
+    <record english="Shall I make you some coffee" kannadaenglish="Nanu Coffee tayarisale" kannada="test" category="House Maid"/>
+    <record english="Wash your face" kannadaenglish="Mukha tholi" kannada="test" category="House Maid"/>
+    <record english="Where did you put them?" kannadaenglish="Yelli itte" kannada="test" category="House Maid"/>
+    <record english="I forgot" kannadaenglish="Nanu maretuhode" kannada="test" category="House Maid"/>
+    <record english="Have you seen my spectacles?" kannadaenglish="Nanna kanadakavanu nodideya" kannada="test" category="House Maid"/>
+    <record english="Look what I found" kannadaenglish="Nodu nanage yenu sikide" kannada="test" category="House Maid"/>
+    <record english="What's in it?" kannadaenglish="Iddarali yenu ide" kannada="test" category="House Maid"/>
+    <record english="This box is light" kannadaenglish="Ee dabbada bara kadime ide" kannada="test" category="House Maid"/>
+    <record english="This box is heavy" kannadaenglish="Ee dabba jasti bara ide" kannada="test" category="House Maid"/>
+    <record english="Can you carry this for me?" kannada="test" category="House Maid"/>
+    <record english="Take it outside" kannadaenglish="Horagade tegedukondu hogu" kannada="test" category="House Maid"/>
+    <record english="Please take off your shoes" kannadaenglish="ninna shoe tegi" kannada="test" category="House Maid"/>
+    <record english="That smells bad" kannadaenglish="adu ketta vasane baruttide" kannada="test" category="House Maid"/>
+    <record english="Will you remind me?" kannadaenglish="Nanage gnapisuttiya" kannada="test" category="House Maid"/>
+
+
+    <record english="I" kannadaenglish="naanu" kannada="test" category="Common Words"/>
+    <record english="He" kannadaenglish="avanu" kannada="test" category="Common Words"/>
+    <record english="She" kannadaenglish="avaLu" kannada="test" category="Common Words"/>
+    <record english="You" kannadaenglish="neenu" kannada="test" category="Common Words"/>
+    <record english="It" kannadaenglish="idu" kannada="test" category="Common Words"/>
+    <record english="This" kannadaenglish="idu" kannada="test" category="Common Words"/>
+    <record english="That" kannadaenglish="adu" kannada="test" category="Common Words"/>
+    <record english="Mother" kannadaenglish="amma" kannada="test" category="Common Words"/>
+    <record english="Father" kannadaenglish="appa" kannada="test" category="Common Words"/>
+    <record english="come" kannadaenglish="baa" kannada="test" category="Common Words"/>
+    <record english="Sit" kannadaenglish="kuLithuko" kannada="test" category="Common Words"/>
+    <record english="Walk" kannadaenglish="nadee" kannada="test" category="Common Words"/>
+    <record english="Eat" kannadaenglish="thinnu" kannada="test" category="Common Words"/>
+    <record english="Drink" kannadaenglish="kudee" kannada="test" category="Common Words"/>
+    <record english="Win" kannadaenglish="gellu" kannada="test" category="Common Words"/>
+    <record english="Go" kannadaenglish="hOgu" kannada="test" category="Common Words"/>
+    <record english="Run" kannadaenglish="ODu" kannada="test" category="Common Words"/>
+    <record english="your" kannadaenglish="ninna" kannada="test" category="Common Words"/>
+    <record english="yes" kannadaenglish="howdhu" kannada="test" category="Common Words"/>
+    <record english="no" kannadaenglish="illa" kannada="test" category="Common Words"/>
+    <record english="please" kannadaenglish="dayaviTTu" kannada="test" category="Common Words"/>
+    <record english="sorry" kannadaenglish="kshamisi" kannada="test" category="Common Words"/>
+    <record english="there" kannadaenglish="alli" kannada="test" category="Common Words"/>
+    <record english="here" kannadaenglish="illi" kannada="test" category="Common Words"/>
+    <record english="take(sigular)" kannadaenglish="thogo" kannada="test" category="Common Words"/>
+    <record english="take(plural)" kannadaenglish="thegedhukoLLi" kannada="test" category="Common Words"/>
+    <record english="Listen (singular)" kannadaenglish="kELu" kannada="test" category="Common Words"/>
+    <record english="Listen (plural)" kannadaenglish="kELi" kannada="test" category="Common Words"/>
+    <record english="Tell (Singular)" kannadaenglish="HeLu" kannada="test" category="Common Words"/>
+    <record english="Tell (plural)" kannadaenglish="HeLi" kannada="test" category="Common Words"/>
+    <record english="Inside" kannadaenglish="oLage" kannada="test" category="Common Words"/>
+    <record english="Outside" kannadaenglish="Horage" kannada="test" category="Common Words"/>
+    <record english="Stop" kannadaenglish="Nillisi" kannada="test" category="Common Words"/>
+    <record english="Now" kannadaenglish="Eega" kannada="test" category="Common Words"/>
+    <record english="Then" kannadaenglish="Aaga" kannada="test" category="Common Words"/>
+    <record english="Fast" kannadaenglish="bEga" kannada="test" category="Common Words"/>
+    <record english="give" kannadaenglish="koDu" kannada="test" category="Common Words"/>
+    <record english="Ours" kannadaenglish="namma" kannada="test" category="Common Words"/>
+    <record english="Yours" kannadaenglish="nimma" kannada="test" category="Common Words"/>
+    <record english="who" kannadaenglish="yaaru" kannada="test" category="Common Words"/>
+    <record english="when" kannadaenglish="yaavaga" kannada="test" category="Common Words"/>
+    <record english="where" kannadaenglish="yelli" kannada="test" category="Common Words"/>
+    <record english="why" kannadaenglish="yaake" kannada="test" category="Common Words"/>
+    <record english="know" kannadaenglish="gothu" kannada="test" category="Common Words"/>
+    <record english="don't know" kannadaenglish="gothilla" kannada="test" category="Common Words"/>
+    <record english="Like" kannadaenglish="ishTa" kannada="test" category="Common Words"/>
+    <record english="how" kannadaenglish="hEgE" kannada="test" category="Common Words"/>
+
+
+    <record english="Emergency" kannadaenglish="Turtu paristiti" kannada="ತುರ್ತು ಪರಿಸ್ತಿತಿ" category="Emergency"/>
+    <record english="What Happened?" kannadaenglish="Enu aayitu ?" kannada="ಏನು ಆಯಿತು ?" category="Emergency"/>
+    <record english="What's wrong?" kannadaenglish="Enu samasyE?" kannada="ಏನು ಸಮಸ್ಯೆ?" category="Emergency"/>
+    <record english="I met with an accident" kannadaenglish="Nanage apaghaata aagide" kannada="ನನಗೆ ಅಪಘಾತ ಆಗಿದೆ" category="Emergency"/>
+    <record english="When did this happen?" kannadaenglish="Idu yavaga aayitu ?" kannada="ಇದು ಯಾವಾಗ ಆಯಿತು ?" category="Emergency"/>
+    <record english="Don't worry" kannadaenglish="Chinte maadabeda" kannada="ಚಿಂತೆ ಮಾಡಬೇಡ" category="Emergency"/>
+    <record english="Do you need any help?" kannadaenglish="Enadaru sahaya beka ?" kannada="ಏನಾದರೂ ಸಹಾಯ ಬೇಕಾ ?" category="Emergency"/>
+    <record english="Please help" kannadaenglish="Dayavittu sahaya maadi" kannada="ದಯವಿಟ್ಟು ಸಹಾಯ ಮಾಡಿ" category="Emergency"/>
+    <record english="Are you afraid?" kannadaenglish="Bhayavaguttideya ?" kannada="ಭಯವಾಗುತ್ತಿದೆಯಾ ?" category="Emergency"/>
+    <record english="Are you OK?" kannadaenglish="Chennagiddira ?" kannada="ಚೆನ್ನಾಗಿದ್ದೀರಾ ?" category="Emergency"/>
+    <record english="Is everything OK?" kannadaenglish="Ellavu sari ideya ?" kannada="ಎಲ್ಲವೂ ಸರಿ ಇದೆಯಾ ?" category="Emergency"/>
+    <record english="I am lost" kannadaenglish="Naanu kaleduhogiddene" kannada="ನಾನು ಕಳೆದುಹೋಗಿದ್ದೇನೆ" category="Emergency"/>
+    <record english="I need to make a phone call" kannadaenglish="Nanu dooravaani kare maadbeku" kannada="ನಾನು ದೂರವಾಣಿ ಕರೆ ಮಾಡ್ಬೇಕು" category="Emergency"/>
+    <record english="Do you have an ointment?" kannadaenglish="Ointment ideya ?" kannada="ಆಯಂಟ್‌ಮೆಂಟ್ ಇದೆಯಾ ?" category="Emergency"/>
+    <record english="Do you have a bandage?" kannadaenglish="Bandage ideya ?" kannada="ಬ್ಯಾಂಡೇಜ್ ಇದೆಯಾ ?" category="Emergency"/>
+    <record english="Stop starving" kannadaenglish="Dittisabeda" kannada="ದಿಟ್ಟಿಸಬೇಡ" category="Emergency"/>
+    <record english="Leave me alone" kannadaenglish="Nanna ontiyagi bidu" kannada="ನನ್ನ ಒಂಟಿಯಾಗಿ ಬಿಡು" category="Emergency"/>
+    <record english="Please leave" kannadaenglish="Dayavittu horatU hogu" kannada="ದಯವಿಟ್ಟು ಹೊರಟು ಹೋಗು" category="Emergency"/>
+    <record english="Don't cheat me" kannadaenglish="Nanna mosa madabeda" kannada="ನನ್ನ ಮೋಸ ಮಾಡಬೇಡ" category="Emergency"/>
+    <record english="I am not interested" kannadaenglish="Nanage asakti illa" kannada="ನನಗೆ ಆಸಕ್ತಿ ಇಲ್ಲ" category="Emergency"/>
+    <record english="Stop following me" kannadaenglish="Nanna himbalisabeda" kannada="ನನ್ನ ಹಿಂಬಾಲಿಸಬೇಡ" category="Emergency"/>
+    <record english="You are crossing teh limit" kannadaenglish="Ninna mitiyannu daatuttiddiya" kannada="ನಿನ್ನ ಮಿತಿಯನ್ನು ದಾಟುತ್ತಿದ್ದೀಯ" category="Emergency"/>
+    <record english="I will call the police" kannadaenglish="Nanu policerannu kareyuttene" kannada="ನಾನು ಪೊಲೀಸೆರನ್ನು ಕರೆಯುತ್ತೇನೆ" category="Emergency"/>
+    <record english="Call an ambulance" kannadaenglish="Ambulance na kareyiri" kannada="ಆಂಬ್ಯುಲೆನ್ಸ್ ನಾ ಕರೆಯಿರಿ" category="Emergency"/>
+    <record english="call the police" kannadaenglish="Police na kareyiri" kannada="ಪೋಲೀಸ್ ನಾ ಕರೆಯಿರಿ" category="Emergency"/>
+    <record english="fire" kannadaenglish="Benki" kannada="ಬೆಂಕಿ" category="Emergency"/>
+    <record english="run" kannadaenglish="odi" kannada="ಓದಿ" category="Emergency"/>
+    <record english="stop" kannadaenglish="Nilli" kannada="ನಿಲ್ಲಿ" category="Emergency"/>
+    <record english="hurry" kannadaenglish="Bega" kannada="ಬೇಗ" category="Emergency"/>
+    <record english="slow down" kannadaenglish="Nidhanavagi" kannada="ನಿಧಾನವಾಗಿ" category="Emergency"/>
+    <record english="thief" kannadaenglish="Kalla" kannada="ಕಳ್ಳ" category="Emergency"/>
+    <record english="Is there a petrol bunk near by" kannadaenglish="Hattiradalli petrol pump ideya ?" kannada="ಹತ್ತಿರದಲ್ಲಿ ಪೆಟ್ರೋಲ್ ಪಂಪ್ ಇದೆಯಾ ?" category="Emergency"/>
+    <record english="Is there a hospital near by" kannadaenglish="Hattiradalli hospital ideya ?" kannada="ಹತ್ತಿರದಲ್ಲಿ ಹಾಸ್ಪಿಟಲ್ ಇದೆಯಾ ?" category="Emergency"/>
+    <record english="Is there a pharmacy near by" kannadaenglish="Hattiradalli pharmacy ideya ?" kannada="ಹತ್ತಿರದಲ್ಲಿ ಫಾರ್ಮೇಸೀ ಇದೆಯಾ ?" category="Emergency"/>
+    <record english="My car tyre is punctured" kannadaenglish="Nanna car tyre panchar agide" kannada="ನನ್ನ ಕಾರ್ ಟೈಯರ್ ಪಂಚರ್ ಆಗಿದೆ" category="Emergency"/>
+    <record english="Watch out" kannadaenglish="Nodiko" kannada="ನೋಡಿಕೋ" category="Emergency"/>
+    <record english="I lost my luggage" kannadaenglish="Nanna luggage kaane agide" kannada="ನನ್ನ ಲಗೇಜ್ ಕಾಣೆ ಆಗಿದೆ" category="Emergency"/>
+
+
+    <record english="Do you speak kannada?" kannadaenglish="Nimage kannada barutta ?" kannada="ನಿಮಗೆ ಕನ್ನಡ ಬರುತ್ತಾ ?" category="Language"/>
+    <record english="Does anyone here speak kannada" kannadaenglish="elli yaradaru kannada mataduttira ?" kannada="ಎಲ್ಲಿ ಯಾರಾದರೂ ಕನ್ನಡ ಮಾತಾಡುತ್ತೀರ ?" category="Language"/>
+    <record english="I don't speak kannada" kannadaenglish="Nanage kannada baralla" kannada="ನನಗೆ ಕನ್ನಡ ಬರಲ್ಲ" category="Language"/>
+    <record english="I am learning kannada" kannadaenglish="Nanu kannada kaliyuttiddene" kannada="ನಾನು ಕನ್ನಡ ಕಲಿಯುತ್ತಿದ್ದೇನೆ" category="Language"/>
+    <record english="How many languages do you speak?" kannadaenglish="Nimage eshtu bhaashe barutte ?" kannada="ನಿಮಗೆ ಎಷ್ಟು ಭಾಷೆ ಬರುತ್ತೆ ?" category="Language"/>
+    <record english="I speak a little kannada" kannadaenglish="Nanage swalpa kannada baruthe" kannada="ನನಗೆ ಸ್ವಲ್ಪ ಕನ್ನಡ ಬರುತೆ" category="Language"/>
+    <record english="You speak kannada very well?" kannadaenglish="Nanu kannada chennagi mataduttiri" kannada="ನಾನು ಕನ್ನಡ ಚೆನ್ನಾಗಿ ಮಾತಾಡುತ್ತೀರಿ" category="Language"/>
+    <record english="Where did you learn kannada?" kannadaenglish="Nivu kannada elli kalitiri ?" kannada="ನೀವು ಕನ್ನಡ ಎಲ್ಲಿ ಕಲಿತಿರಿ ?" category="Language"/>
+    <record english="Am I prounoncing it correctly?" kannadaenglish="Nanu sari agi heluttiddina ?" kannada="ನಾನು ಸರಿ ಆಗಿ ಹೇಳುತ್ತಿದ್ದಿನ ?" category="Language"/>
+    <record english="How do you say it in kannada?" kannadaenglish="Adannu kannadadalli hege helabeku ?" kannada="ಅದನ್ನು ಕನ್ನಡದಲ್ಲಿ ಹೇಗೆ ಹೇಳಬೇಕು ?" category="Language"/>
+    <record english="How do you pronounce that?" kannadaenglish="Adannu hege ucchara maadabeku ?" kannada="ಅದನ್ನು ಹೇಗೆ ಉಚ್ಚಾರ ಮಾಡಬೇಕು ?" category="Language"/>
+    <record english="How do you spell it?" kannadaenglish="Adannu hege bareyuttare ?" kannada="ಅದನ್ನು ಹೇಗೆ ಬರೆಯುತ್ತಾರೆ ?" category="Language"/>
+    <record english="Please could you write it down?" kannadaenglish="Dayavittu adannu bareyuttira ?" kannada="ದಯವಿಟ್ಟು ಅದನ್ನು ಬರೆಯುತ್ತೀರಾ ?" category="Language"/>
+    <record english="Can you explain this to me?" kannadaenglish="Adannu vivarisuttira ?" kannada="ಅದನ್ನು ವಿವರಿಸುತ್ತೀರಾ ?" category="Language"/>
+    <record english="Try to say it" kannadaenglish="Adannu helalu prayatna maadi " kannada="ಅದನ್ನು ಹೇಳಲು ಪ್ರಯತ್ನ ಮಾಡಿ " category="Language"/>
+    <record english="What is this called?" kannadaenglish="idannu enannuttare ?" kannada="ಇದನ್ನು ಏನನ್ನುತ್ತಾರೆ ?" category="Language"/>
+    <record english="What does that mean?" kannadaenglish="Adara artha enu ?" kannada="ಅದರ ಅರ್ಥ ಏನು ?" category="Language"/>
+    <record english="Can you translate this for me?" kannadaenglish="Idannu anuvaada maaduttira ?" kannada="ಇದನ್ನು ಅನುವಾದ ಮಾಡುತ್ತೀರಾ ?" category="Language"/>
+    <record english="Can you give me an example?" kannadaenglish="Ondu udaharane koduttira ?" kannada="ಒಂದು ಉದಾಹರಣೆ ಕೊಡುತ್ತೀರಾ ?" category="Language"/>
+    <record english="Sorry I didn't get" kannadaenglish="Kshamisi nanage arthavaagalilla" kannada="ಕ್ಷಮಿಸಿ ನನಗೆ ಅರ್ಥವಾಗಲಿಲ್ಲ" category="Language"/>
+    <record english="Can you repeat this?" kannadaenglish="Adannu matte heluttira ?" kannada="ಅದನ್ನು ಮತ್ತೆ ಹೇಳುತ್ತೀರಾ ?" category="Language"/>
+    <record english="Did you understand?" kannadaenglish="Nimage artha aayita ?" kannada="ನಿಮಗೆ ಅರ್ಥ ಆಯಿತಾ ?" category="Language"/>
+    <record english="I have understood" kannadaenglish="Nanage arthavaayitu ?" kannada="ನನಗೆ ಅರ್ಥವಾಯಿತು ?" category="Language"/>
+    <record english="I understand" kannadaenglish="Nanage arthavaaguttide" kannada="ನನಗೆ ಅರ್ಥವಾಗುತ್ತಿದೆ" category="Language"/>
+    <record english="I study kannada" kannadaenglish="Nanu kannada oduttene" kannada="ನಾನು ಕನ್ನಡ ಓದುತ್ತೇನೆ" category="Language"/>
+    <record english="I am studying kannada" kannadaenglish="Nanu kannada oduttiddene" kannada="ನಾನು ಕನ್ನಡ ಓದುತ್ತಿದ್ದೇನೆ" category="Language"/>
+    <record english="I have been studying kannada since a month" kannadaenglish="Nanu ondu tingalinda kannada oduttiddene" kannada="ನಾನು ಒಂದು ತಿಂಗಳಿಂದ ಕನ್ನಡ ಓದುತ್ತಿದ್ದೇನೆ" category="Language"/>
+    <record english="I studied kannada" kannadaenglish="Nanu kannada odiddene" kannada="ನಾನು ಕನ್ನಡ ಓದಿದ್ದೇನೆ" category="Language"/>
+    <record english="I was studying kannada" kannadaenglish="Nanu kannada oduttidde " kannada="ನಾನು ಕನ್ನಡ ಓದುತ್ತಿದ್ದೆ " category="Language"/>
+    <record english="I had studied kannada" kannadaenglish="Nanu kannada odidde " kannada="ನಾನು ಕನ್ನಡ ಓದಿದ್ದೆ" category="Language"/>
+    <record english="I will study kannada" kannadaenglish="Nanu kannada oduttene" kannada="ನಾನು ಕನ್ನಡ ಓದುತ್ತೇನೆ" category="Language"/>
+    <record english="I will be studing kannada" kannadaenglish="Nanu munde kannade oduttene" kannada="ನಾನು ಮುಂದೆ ಕನ್ನದೆ ಓದುತ್ತೇನೆ" category="Language"/>
+    <record english="Where is the book?" kannadaenglish="Pustaka ellide ?" kannada="ಪುಸ್ತಕ ಎಲ್ಲಿದೆ ?" category="Language"/>
+    <record english="The book is behind teh table" kannadaenglish="Pustaka mejina hinde ide" kannada="ಪುಸ್ತಕ ಮೇಜಿನ ಹಿಂದೆ ಇದೆ " category="Language"/>
+    <record english="The book is in front of table" kannadaenglish="Pustaka mejina munde ide" kannada="ಪುಸ್ತಕ ಮೇಜಿನ ಮುಂದೆ ಇದೆ" category="Language"/>
+    <record english="The book is near the table" kannadaenglish="Pustaka mejina hattira ide" kannada="ಪುಸ್ತಕ ಮೇಜಿನ ಹತ್ತಿರ ಇದೆ" category="Language"/>
+    <record english="The book is next to the table" kannadaenglish="Pustaka mejina pakkadalli ide" kannada="ಪುಸ್ತಕ ಮೇಜಿನ ಪಕ್ಕದಲ್ಲಿ ಇದೆ" category="Language"/>
+    <record english="The book is top of the table" kannadaenglish="Pustaka mejina mele ide" kannada="ಪುಸ್ತಕ ಮೇಜಿನ ಮೇಲೆ ಇದೆ" category="Language"/>
+    <record english="The book is under the table" kannadaenglish="Pustaka mejina kelage ide" kannada="ಪುಸ್ತಕ ಮೇಜಿನ ಕೆಳಗೆ ಇದೆ" category="Language"/>
+    <record english="There are some books on the table" kannadaenglish="Mejina mele kelavu books ive" kannada="ಮೇಜಿನ ಮೇಲೆ ಕೆಲವು ಬುಕ್ಸ್ ಇವೆ" category="Language"/>
+</definitions>
